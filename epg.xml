@@ -1,0 +1,1932 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator_info_name="LiveSoccerTV EPG">
+  <channel id="1 LIVE EVENT">
+    <display-name>1 LIVE EVENT</display-name>
+  </channel>
+  <channel id="1 LIVE EVENT WWE">
+    <display-name>1 LIVE EVENT WWE</display-name>
+  </channel>
+  <channel id="10 EVENT WWE">
+    <display-name>10 EVENT WWE</display-name>
+  </channel>
+  <channel id="11 EVENT WWE">
+    <display-name>11 EVENT WWE</display-name>
+  </channel>
+  <channel id="12 EVENT WWE">
+    <display-name>12 EVENT WWE</display-name>
+  </channel>
+  <channel id="13 EVENT WWE">
+    <display-name>13 EVENT WWE</display-name>
+  </channel>
+  <channel id="14 EVENT WWE">
+    <display-name>14 EVENT WWE</display-name>
+  </channel>
+  <channel id="15 EVENT WWE">
+    <display-name>15 EVENT WWE</display-name>
+  </channel>
+  <channel id="16 EVENT WWE">
+    <display-name>16 EVENT WWE</display-name>
+  </channel>
+  <channel id="19:40 ECZACIBASI W VS GALATASARAY W">
+    <display-name>19:40 ECZACIBASI W VS GALATASARAY W</display-name>
+  </channel>
+  <channel id="2 EVENT WWE">
+    <display-name>2 EVENT WWE</display-name>
+  </channel>
+  <channel id="3 EVENT WWE">
+    <display-name>3 EVENT WWE</display-name>
+  </channel>
+  <channel id="4 EVENT WWE">
+    <display-name>4 EVENT WWE</display-name>
+  </channel>
+  <channel id="5 EVENT WWE">
+    <display-name>5 EVENT WWE</display-name>
+  </channel>
+  <channel id="6 EVENT WWE">
+    <display-name>6 EVENT WWE</display-name>
+  </channel>
+  <channel id="7 EVENT WWE">
+    <display-name>7 EVENT WWE</display-name>
+  </channel>
+  <channel id="8 EVENT WWE">
+    <display-name>8 EVENT WWE</display-name>
+  </channel>
+  <channel id="9 EVENT WWE">
+    <display-name>9 EVENT WWE</display-name>
+  </channel>
+  <channel id="ABU DHABI SPORT 1 TV">
+    <display-name>ABU DHABI SPORT 1 TV</display-name>
+  </channel>
+  <channel id="ABU DHABI SPORTS">
+    <display-name>ABU DHABI SPORTS</display-name>
+  </channel>
+  <channel id="ABU DHABI SPORTS 1">
+    <display-name>ABU DHABI SPORTS 1</display-name>
+  </channel>
+  <channel id="ABU DHABI SPORTS 2">
+    <display-name>ABU DHABI SPORTS 2</display-name>
+  </channel>
+  <channel id="AFC EVENT">
+    <display-name>AFC EVENT</display-name>
+  </channel>
+  <channel id="AFC LEAGUE ELITE⁽ˢᵉʳᵛᵉʳ ¹⁾">
+    <display-name>AFC LEAGUE ELITE⁽ˢᵉʳᵛᵉʳ ¹⁾</display-name>
+  </channel>
+  <channel id="AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ²⁾">
+    <display-name>AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ²⁾</display-name>
+  </channel>
+  <channel id="AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ³⁾">
+    <display-name>AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ³⁾</display-name>
+  </channel>
+  <channel id="AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ¹⁾">
+    <display-name>AFC LEAGUE TWO⁽ˢᵉʳᵛᵉʳ ¹⁾</display-name>
+  </channel>
+  <channel id="AFF U23 ASTRO ARENA 2">
+    <display-name>AFF U23 ASTRO ARENA 2</display-name>
+  </channel>
+  <channel id="AFF U23 M LIVE 5">
+    <display-name>AFF U23 M LIVE 5</display-name>
+  </channel>
+  <channel id="AFF U23 M LIVE 6">
+    <display-name>AFF U23 M LIVE 6</display-name>
+  </channel>
+  <channel id="ARENA PREMIUM 1">
+    <display-name>ARENA PREMIUM 1</display-name>
+  </channel>
+  <channel id="ARENA PREMIUM 2">
+    <display-name>ARENA PREMIUM 2</display-name>
+  </channel>
+  <channel id="ASTRO ARENA">
+    <display-name>ASTRO ARENA</display-name>
+  </channel>
+  <channel id="ASTRO ARENA 2">
+    <display-name>ASTRO ARENA 2</display-name>
+  </channel>
+  <channel id="ASTRO ARENA 2 ᴴᴰ">
+    <display-name>ASTRO ARENA 2 ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO ARENA BOLA">
+    <display-name>ASTRO ARENA BOLA</display-name>
+  </channel>
+  <channel id="ASTRO ARENA BOLA 2">
+    <display-name>ASTRO ARENA BOLA 2</display-name>
+  </channel>
+  <channel id="ASTRO ARENA ᴴᴰ">
+    <display-name>ASTRO ARENA ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO BADMINTON">
+    <display-name>ASTRO BADMINTON</display-name>
+  </channel>
+  <channel id="ASTRO BADMINTON 2">
+    <display-name>ASTRO BADMINTON 2</display-name>
+  </channel>
+  <channel id="ASTRO BADMINTONᴴᴰ">
+    <display-name>ASTRO BADMINTONᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO CRICKET">
+    <display-name>ASTRO CRICKET</display-name>
+  </channel>
+  <channel id="ASTRO CRICKET ᴴᴰ">
+    <display-name>ASTRO CRICKET ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO FOOTBALL">
+    <display-name>ASTRO FOOTBALL</display-name>
+  </channel>
+  <channel id="ASTRO FOOTBALL ᴴᴰ">
+    <display-name>ASTRO FOOTBALL ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO GRANDSTAND">
+    <display-name>ASTRO GRANDSTAND</display-name>
+  </channel>
+  <channel id="ASTRO GRANDSTAND ᴴᴰ">
+    <display-name>ASTRO GRANDSTAND ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO PREMIER LEAGUE">
+    <display-name>ASTRO PREMIER LEAGUE</display-name>
+  </channel>
+  <channel id="ASTRO PREMIER LEAGUE 1 ᴴᴰ">
+    <display-name>ASTRO PREMIER LEAGUE 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO PREMIER LEAGUE 2">
+    <display-name>ASTRO PREMIER LEAGUE 2</display-name>
+  </channel>
+  <channel id="ASTRO PREMIER LEAGUE 2 ᴴᴰ">
+    <display-name>ASTRO PREMIER LEAGUE 2 ᴴᴰ</display-name>
+  </channel>
+  <channel id="ASTRO SPORTS PLUS ᴴᴰ">
+    <display-name>ASTRO SPORTS PLUS ᴴᴰ</display-name>
+  </channel>
+  <channel id="AVC CUP 1">
+    <display-name>AVC CUP 1</display-name>
+  </channel>
+  <channel id="AVC CUP 2">
+    <display-name>AVC CUP 2</display-name>
+  </channel>
+  <channel id="AVC CUP 3">
+    <display-name>AVC CUP 3</display-name>
+  </channel>
+  <channel id="AZAM SPORTS 2">
+    <display-name>AZAM SPORTS 2</display-name>
+  </channel>
+  <channel id="Abu Dhabi Sports TV 1">
+    <display-name>Abu Dhabi Sports TV 1</display-name>
+  </channel>
+  <channel id="Abu Dhabi Sports TV 2">
+    <display-name>Abu Dhabi Sports TV 2</display-name>
+  </channel>
+  <channel id="BAHRAIN SPORT 1">
+    <display-name>BAHRAIN SPORT 1</display-name>
+  </channel>
+  <channel id="BAHRAIN SPORT 2">
+    <display-name>BAHRAIN SPORT 2</display-name>
+  </channel>
+  <channel id="BARCA TV ᴴᴰ">
+    <display-name>BARCA TV ᴴᴰ</display-name>
+  </channel>
+  <channel id="BEIN SPORT 1">
+    <display-name>BEIN SPORT 1</display-name>
+  </channel>
+  <channel id="BEIN SPORT 2">
+    <display-name>BEIN SPORT 2</display-name>
+  </channel>
+  <channel id="BEIN SPORT 3">
+    <display-name>BEIN SPORT 3</display-name>
+  </channel>
+  <channel id="BEIN SPORT XTRA">
+    <display-name>BEIN SPORT XTRA</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 1">
+    <display-name>BEIN SPORTS 1</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 1 BC">
+    <display-name>BEIN SPORTS 1 BC</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 1 LALIGA">
+    <display-name>BEIN SPORTS 1 LALIGA</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 2">
+    <display-name>BEIN SPORTS 2</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 2 BC">
+    <display-name>BEIN SPORTS 2 BC</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 2 SERIE A">
+    <display-name>BEIN SPORTS 2 SERIE A</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 3">
+    <display-name>BEIN SPORTS 3</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 3 BC">
+    <display-name>BEIN SPORTS 3 BC</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 3 BUNDES LIGA">
+    <display-name>BEIN SPORTS 3 BUNDES LIGA</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 4">
+    <display-name>BEIN SPORTS 4</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 5">
+    <display-name>BEIN SPORTS 5</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 6">
+    <display-name>BEIN SPORTS 6</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 7">
+    <display-name>BEIN SPORTS 7</display-name>
+  </channel>
+  <channel id="BEIN SPORTS 8">
+    <display-name>BEIN SPORTS 8</display-name>
+  </channel>
+  <channel id="BEIN SPORTS EXTRA">
+    <display-name>BEIN SPORTS EXTRA</display-name>
+  </channel>
+  <channel id="BEIN SPORTS EXTRA n">
+    <display-name>BEIN SPORTS EXTRA n</display-name>
+  </channel>
+  <channel id="BELLATOR MMA">
+    <display-name>BELLATOR MMA</display-name>
+  </channel>
+  <channel id="BILLIYARD TV">
+    <display-name>BILLIYARD TV</display-name>
+  </channel>
+  <channel id="BLUE SPORT 1">
+    <display-name>BLUE SPORT 1</display-name>
+  </channel>
+  <channel id="BLUE SPORT 2">
+    <display-name>BLUE SPORT 2</display-name>
+  </channel>
+  <channel id="BOXING TV">
+    <display-name>BOXING TV</display-name>
+  </channel>
+  <channel id="BUNDESLIGA 1 SOCCER">
+    <display-name>BUNDESLIGA 1 SOCCER</display-name>
+  </channel>
+  <channel id="BUNDESLIGA 2 SKY 24">
+    <display-name>BUNDESLIGA 2 SKY 24</display-name>
+  </channel>
+  <channel id="BWF COURT 1">
+    <display-name>BWF COURT 1</display-name>
+  </channel>
+  <channel id="BWF COURT 2">
+    <display-name>BWF COURT 2</display-name>
+  </channel>
+  <channel id="BWF COURT 3">
+    <display-name>BWF COURT 3</display-name>
+  </channel>
+  <channel id="BWF COURT 4">
+    <display-name>BWF COURT 4</display-name>
+  </channel>
+  <channel id="Bahrain Sports 1">
+    <display-name>Bahrain Sports 1</display-name>
+  </channel>
+  <channel id="Bahrain Sports 2">
+    <display-name>Bahrain Sports 2</display-name>
+  </channel>
+  <channel id="BeIN Sports AU 1">
+    <display-name>BeIN Sports AU 1</display-name>
+  </channel>
+  <channel id="BeIN Sports AU 2">
+    <display-name>BeIN Sports AU 2</display-name>
+  </channel>
+  <channel id="BeIN Sports AU 3">
+    <display-name>BeIN Sports AU 3</display-name>
+  </channel>
+  <channel id="CANAL+ SPORT">
+    <display-name>CANAL+ SPORT</display-name>
+  </channel>
+  <channel id="CAZE TV 1">
+    <display-name>CAZE TV 1</display-name>
+  </channel>
+  <channel id="CAZE TV 2">
+    <display-name>CAZE TV 2</display-name>
+  </channel>
+  <channel id="CAZE TV 3">
+    <display-name>CAZE TV 3</display-name>
+  </channel>
+  <channel id="CAZE TV 4">
+    <display-name>CAZE TV 4</display-name>
+  </channel>
+  <channel id="CHAMPIONS 1 BEIN 1">
+    <display-name>CHAMPIONS 1 BEIN 1</display-name>
+  </channel>
+  <channel id="CHAMPIONS 2 BEIN 3">
+    <display-name>CHAMPIONS 2 BEIN 3</display-name>
+  </channel>
+  <channel id="CHAMPIONS 3 BEIN 4">
+    <display-name>CHAMPIONS 3 BEIN 4</display-name>
+  </channel>
+  <channel id="CHAMPIONS 4 BEIN 5">
+    <display-name>CHAMPIONS 4 BEIN 5</display-name>
+  </channel>
+  <channel id="CHAMPIONS 5 TNT 1">
+    <display-name>CHAMPIONS 5 TNT 1</display-name>
+  </channel>
+  <channel id="CHAMPIONS 6 TNT 3">
+    <display-name>CHAMPIONS 6 TNT 3</display-name>
+  </channel>
+  <channel id="CHAMPIONS 7 TNT 4">
+    <display-name>CHAMPIONS 7 TNT 4</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 1">
+    <display-name>CHAMPIONS TV 1</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 2">
+    <display-name>CHAMPIONS TV 2</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 2 BACKUP">
+    <display-name>CHAMPIONS TV 2 BACKUP</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 3">
+    <display-name>CHAMPIONS TV 3</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 5">
+    <display-name>CHAMPIONS TV 5</display-name>
+  </channel>
+  <channel id="CHAMPIONS TV 6">
+    <display-name>CHAMPIONS TV 6</display-name>
+  </channel>
+  <channel id="CTV 1">
+    <display-name>CTV 1</display-name>
+  </channel>
+  <channel id="CTV 1 A">
+    <display-name>CTV 1 A</display-name>
+  </channel>
+  <channel id="CTV 2">
+    <display-name>CTV 2</display-name>
+  </channel>
+  <channel id="CTV 2 A">
+    <display-name>CTV 2 A</display-name>
+  </channel>
+  <channel id="CTV 3">
+    <display-name>CTV 3</display-name>
+  </channel>
+  <channel id="CTV 3 A">
+    <display-name>CTV 3 A</display-name>
+  </channel>
+  <channel id="CTV 5">
+    <display-name>CTV 5</display-name>
+  </channel>
+  <channel id="CTV 5 A">
+    <display-name>CTV 5 A</display-name>
+  </channel>
+  <channel id="CTV 6">
+    <display-name>CTV 6</display-name>
+  </channel>
+  <channel id="CTV 6 A">
+    <display-name>CTV 6 A</display-name>
+  </channel>
+  <channel id="DAIHATSU JAPAN B">
+    <display-name>DAIHATSU JAPAN B</display-name>
+  </channel>
+  <channel id="DAZN">
+    <display-name>DAZN</display-name>
+  </channel>
+  <channel id="DAZN 1">
+    <display-name>DAZN 1</display-name>
+  </channel>
+  <channel id="DAZN 1 DE">
+    <display-name>DAZN 1 DE</display-name>
+  </channel>
+  <channel id="DAZN 1 DT1">
+    <display-name>DAZN 1 DT1</display-name>
+  </channel>
+  <channel id="DAZN 1 DT2">
+    <display-name>DAZN 1 DT2</display-name>
+  </channel>
+  <channel id="DAZN 1 ES">
+    <display-name>DAZN 1 ES</display-name>
+  </channel>
+  <channel id="DAZN 1 EVENT">
+    <display-name>DAZN 1 EVENT</display-name>
+  </channel>
+  <channel id="DAZN 1 IP">
+    <display-name>DAZN 1 IP</display-name>
+  </channel>
+  <channel id="DAZN 1 JP">
+    <display-name>DAZN 1 JP</display-name>
+  </channel>
+  <channel id="DAZN 2">
+    <display-name>DAZN 2</display-name>
+  </channel>
+  <channel id="DAZN 2 ES">
+    <display-name>DAZN 2 ES</display-name>
+  </channel>
+  <channel id="DAZN 2 IP">
+    <display-name>DAZN 2 IP</display-name>
+  </channel>
+  <channel id="DAZN 3">
+    <display-name>DAZN 3</display-name>
+  </channel>
+  <channel id="DAZN 3 ES">
+    <display-name>DAZN 3 ES</display-name>
+  </channel>
+  <channel id="DAZN 3 IP">
+    <display-name>DAZN 3 IP</display-name>
+  </channel>
+  <channel id="DAZN 4">
+    <display-name>DAZN 4</display-name>
+  </channel>
+  <channel id="DAZN 4 ES">
+    <display-name>DAZN 4 ES</display-name>
+  </channel>
+  <channel id="DAZN 4 IP">
+    <display-name>DAZN 4 IP</display-name>
+  </channel>
+  <channel id="DAZN 5">
+    <display-name>DAZN 5</display-name>
+  </channel>
+  <channel id="DAZN 5 IP">
+    <display-name>DAZN 5 IP</display-name>
+  </channel>
+  <channel id="DAZN 6 IP">
+    <display-name>DAZN 6 IP</display-name>
+  </channel>
+  <channel id="DAZN COMBAT">
+    <display-name>DAZN COMBAT</display-name>
+  </channel>
+  <channel id="DAZN EVENT 1">
+    <display-name>DAZN EVENT 1</display-name>
+  </channel>
+  <channel id="DAZN EVENT 2">
+    <display-name>DAZN EVENT 2</display-name>
+  </channel>
+  <channel id="DAZN F1">
+    <display-name>DAZN F1</display-name>
+  </channel>
+  <channel id="DAZN F1 IP">
+    <display-name>DAZN F1 IP</display-name>
+  </channel>
+  <channel id="DAZN FAST">
+    <display-name>DAZN FAST</display-name>
+  </channel>
+  <channel id="DAZN FAST+">
+    <display-name>DAZN FAST+</display-name>
+  </channel>
+  <channel id="DAZN HELDINNEN">
+    <display-name>DAZN HELDINNEN</display-name>
+  </channel>
+  <channel id="DAZN LALIGA">
+    <display-name>DAZN LALIGA</display-name>
+  </channel>
+  <channel id="DAZN RINGSIDE">
+    <display-name>DAZN RINGSIDE</display-name>
+  </channel>
+  <channel id="DAZN RISE">
+    <display-name>DAZN RISE</display-name>
+  </channel>
+  <channel id="DAZN WOMEN'S FOOTBALL">
+    <display-name>DAZN WOMEN'S FOOTBALL</display-name>
+  </channel>
+  <channel id="DGS 1">
+    <display-name>DGS 1</display-name>
+  </channel>
+  <channel id="DGS 2">
+    <display-name>DGS 2</display-name>
+  </channel>
+  <channel id="DGS 3">
+    <display-name>DGS 3</display-name>
+  </channel>
+  <channel id="DGS 4">
+    <display-name>DGS 4</display-name>
+  </channel>
+  <channel id="DIGI SPORT 1">
+    <display-name>DIGI SPORT 1</display-name>
+  </channel>
+  <channel id="DIGI SPORT 2">
+    <display-name>DIGI SPORT 2</display-name>
+  </channel>
+  <channel id="DIGI SPORT 3">
+    <display-name>DIGI SPORT 3</display-name>
+  </channel>
+  <channel id="DIGI SPORT 4">
+    <display-name>DIGI SPORT 4</display-name>
+  </channel>
+  <channel id="DUBAI RACING">
+    <display-name>DUBAI RACING</display-name>
+  </channel>
+  <channel id="DUBAI RACING 2">
+    <display-name>DUBAI RACING 2</display-name>
+  </channel>
+  <channel id="DUBAI SPORT 2">
+    <display-name>DUBAI SPORT 2</display-name>
+  </channel>
+  <channel id="DUBAI SPORT 3">
+    <display-name>DUBAI SPORT 3</display-name>
+  </channel>
+  <channel id="DUBAI SPORTS 1">
+    <display-name>DUBAI SPORTS 1</display-name>
+  </channel>
+  <channel id="DUBAI SPORTS 2">
+    <display-name>DUBAI SPORTS 2</display-name>
+  </channel>
+  <channel id="DUBAI SPORTS 3">
+    <display-name>DUBAI SPORTS 3</display-name>
+  </channel>
+  <channel id="Dubai Sports 1">
+    <display-name>Dubai Sports 1</display-name>
+  </channel>
+  <channel id="Dubai Sports 2">
+    <display-name>Dubai Sports 2</display-name>
+  </channel>
+  <channel id="Dubai Sports 3">
+    <display-name>Dubai Sports 3</display-name>
+  </channel>
+  <channel id="EPL 1 DAZN">
+    <display-name>EPL 1 DAZN</display-name>
+  </channel>
+  <channel id="EPL 1 HUB PREMIER 1">
+    <display-name>EPL 1 HUB PREMIER 1</display-name>
+  </channel>
+  <channel id="EPL 10 DAZN IP">
+    <display-name>EPL 10 DAZN IP</display-name>
+  </channel>
+  <channel id="EPL 11 PRIMERE">
+    <display-name>EPL 11 PRIMERE</display-name>
+  </channel>
+  <channel id="EPL 12 CMP 5">
+    <display-name>EPL 12 CMP 5</display-name>
+  </channel>
+  <channel id="EPL 12 TELEMUNDO">
+    <display-name>EPL 12 TELEMUNDO</display-name>
+  </channel>
+  <channel id="EPL 2 DAZN">
+    <display-name>EPL 2 DAZN</display-name>
+  </channel>
+  <channel id="EPL 2 HUB PREMIER 2">
+    <display-name>EPL 2 HUB PREMIER 2</display-name>
+  </channel>
+  <channel id="EPL 3 P SPORTS">
+    <display-name>EPL 3 P SPORTS</display-name>
+  </channel>
+  <channel id="EPL 4 FUBO 1">
+    <display-name>EPL 4 FUBO 1</display-name>
+  </channel>
+  <channel id="EPL 5 FUBO 2">
+    <display-name>EPL 5 FUBO 2</display-name>
+  </channel>
+  <channel id="EPL 5 TNT 1">
+    <display-name>EPL 5 TNT 1</display-name>
+  </channel>
+  <channel id="EPL 6 USA">
+    <display-name>EPL 6 USA</display-name>
+  </channel>
+  <channel id="EPL 7 NBC">
+    <display-name>EPL 7 NBC</display-name>
+  </channel>
+  <channel id="EPL 7 TRUE">
+    <display-name>EPL 7 TRUE</display-name>
+  </channel>
+  <channel id="EPL 8 PEACOCK">
+    <display-name>EPL 8 PEACOCK</display-name>
+  </channel>
+  <channel id="EPL 9 HUB PREMIER 3">
+    <display-name>EPL 9 HUB PREMIER 3</display-name>
+  </channel>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name>ESPN 2</display-name>
+  </channel>
+  <channel id="ESPN 2 CO">
+    <display-name>ESPN 2 CO</display-name>
+  </channel>
+  <channel id="ESPN 2 MX">
+    <display-name>ESPN 2 MX</display-name>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name>ESPN 3</display-name>
+  </channel>
+  <channel id="ESPN 3 CO">
+    <display-name>ESPN 3 CO</display-name>
+  </channel>
+  <channel id="ESPN 3 MX">
+    <display-name>ESPN 3 MX</display-name>
+  </channel>
+  <channel id="ESPN 4">
+    <display-name>ESPN 4</display-name>
+  </channel>
+  <channel id="ESPN 4 CO">
+    <display-name>ESPN 4 CO</display-name>
+  </channel>
+  <channel id="ESPN 4 LATIN AMERICA">
+    <display-name>ESPN 4 LATIN AMERICA</display-name>
+  </channel>
+  <channel id="ESPN 5">
+    <display-name>ESPN 5</display-name>
+  </channel>
+  <channel id="ESPN 5 CO">
+    <display-name>ESPN 5 CO</display-name>
+  </channel>
+  <channel id="ESPN 5 LATIN AMERICA">
+    <display-name>ESPN 5 LATIN AMERICA</display-name>
+  </channel>
+  <channel id="ESPN 6">
+    <display-name>ESPN 6</display-name>
+  </channel>
+  <channel id="ESPN 6 CO">
+    <display-name>ESPN 6 CO</display-name>
+  </channel>
+  <channel id="ESPN 6 LATIN AMERICA">
+    <display-name>ESPN 6 LATIN AMERICA</display-name>
+  </channel>
+  <channel id="ESPN 7">
+    <display-name>ESPN 7</display-name>
+  </channel>
+  <channel id="ESPN 7 CO">
+    <display-name>ESPN 7 CO</display-name>
+  </channel>
+  <channel id="ESPN 7 LATIN AMERICA">
+    <display-name>ESPN 7 LATIN AMERICA</display-name>
+  </channel>
+  <channel id="ESPN CO">
+    <display-name>ESPN CO</display-name>
+  </channel>
+  <channel id="ESPN DEPORTES">
+    <display-name>ESPN DEPORTES</display-name>
+  </channel>
+  <channel id="ESPN MX">
+    <display-name>ESPN MX</display-name>
+  </channel>
+  <channel id="ESPN NETWORK">
+    <display-name>ESPN NETWORK</display-name>
+  </channel>
+  <channel id="ESPN PREMIUM">
+    <display-name>ESPN PREMIUM</display-name>
+  </channel>
+  <channel id="ESPN U">
+    <display-name>ESPN U</display-name>
+  </channel>
+  <channel id="ESPN VIVO">
+    <display-name>ESPN VIVO</display-name>
+  </channel>
+  <channel id="ESPN VIVO 2">
+    <display-name>ESPN VIVO 2</display-name>
+  </channel>
+  <channel id="EUROSPORT">
+    <display-name>EUROSPORT</display-name>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name>EUROSPORT 1</display-name>
+  </channel>
+  <channel id="EUROSPORT 1 IP">
+    <display-name>EUROSPORT 1 IP</display-name>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name>EUROSPORT 2</display-name>
+  </channel>
+  <channel id="EUROSPORT 2 IP">
+    <display-name>EUROSPORT 2 IP</display-name>
+  </channel>
+  <channel id="EUROSPORT ASIA">
+    <display-name>EUROSPORT ASIA</display-name>
+  </channel>
+  <channel id="EVENT LIVOLI">
+    <display-name>EVENT LIVOLI</display-name>
+  </channel>
+  <channel id="Eurosport Asia">
+    <display-name>Eurosport Asia</display-name>
+  </channel>
+  <channel id="FANCODE TV">
+    <display-name>FANCODE TV</display-name>
+  </channel>
+  <channel id="FANCODE TV 1">
+    <display-name>FANCODE TV 1</display-name>
+  </channel>
+  <channel id="FANCODE TV 2">
+    <display-name>FANCODE TV 2</display-name>
+  </channel>
+  <channel id="FIFA CLUB">
+    <display-name>FIFA CLUB</display-name>
+  </channel>
+  <channel id="FIFA CLUB 1">
+    <display-name>FIFA CLUB 1</display-name>
+  </channel>
+  <channel id="FIFA+ AU">
+    <display-name>FIFA+ AU</display-name>
+  </channel>
+  <channel id="FIFA+ SPORT">
+    <display-name>FIFA+ SPORT</display-name>
+  </channel>
+  <channel id="FIGHT NETWORK">
+    <display-name>FIGHT NETWORK</display-name>
+  </channel>
+  <channel id="FIGHT SPORTS">
+    <display-name>FIGHT SPORTS</display-name>
+  </channel>
+  <channel id="FIGHT TV PREMIUM">
+    <display-name>FIGHT TV PREMIUM</display-name>
+  </channel>
+  <channel id="FISHING TV">
+    <display-name>FISHING TV</display-name>
+  </channel>
+  <channel id="FOOTBALL TV">
+    <display-name>FOOTBALL TV</display-name>
+  </channel>
+  <channel id="FOX SPORT PREMIUM">
+    <display-name>FOX SPORT PREMIUM</display-name>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name>FOX SPORTS</display-name>
+  </channel>
+  <channel id="FOX SPORTS 1">
+    <display-name>FOX SPORTS 1</display-name>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name>FOX SPORTS 2</display-name>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name>FOX SPORTS 3</display-name>
+  </channel>
+  <channel id="FOX SPORTS PREMIUM">
+    <display-name>FOX SPORTS PREMIUM</display-name>
+  </channel>
+  <channel id="FS PREMIUM">
+    <display-name>FS PREMIUM</display-name>
+  </channel>
+  <channel id="FS2">
+    <display-name>FS2</display-name>
+  </channel>
+  <channel id="FUBO SPORTS">
+    <display-name>FUBO SPORTS</display-name>
+  </channel>
+  <channel id="FUBO SPORTS 1">
+    <display-name>FUBO SPORTS 1</display-name>
+  </channel>
+  <channel id="FUBO SPORTS 2">
+    <display-name>FUBO SPORTS 2</display-name>
+  </channel>
+  <channel id="GLORY KICKBOXING">
+    <display-name>GLORY KICKBOXING</display-name>
+  </channel>
+  <channel id="GO3 SPORT 1">
+    <display-name>GO3 SPORT 1</display-name>
+  </channel>
+  <channel id="GO3 SPORT 2">
+    <display-name>GO3 SPORT 2</display-name>
+  </channel>
+  <channel id="GO3 SPORT 3">
+    <display-name>GO3 SPORT 3</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 1">
+    <display-name>GO3 SPORT EXTRA 1</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 14">
+    <display-name>GO3 SPORT EXTRA 14</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 2">
+    <display-name>GO3 SPORT EXTRA 2</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 5">
+    <display-name>GO3 SPORT EXTRA 5</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 6">
+    <display-name>GO3 SPORT EXTRA 6</display-name>
+  </channel>
+  <channel id="GO3 SPORT EXTRA 7">
+    <display-name>GO3 SPORT EXTRA 7</display-name>
+  </channel>
+  <channel id="GO3 SPORT OPEN">
+    <display-name>GO3 SPORT OPEN</display-name>
+  </channel>
+  <channel id="GOLF+">
+    <display-name>GOLF+</display-name>
+  </channel>
+  <channel id="GOLFPASS">
+    <display-name>GOLFPASS</display-name>
+  </channel>
+  <channel id="HORIZON SPORTS">
+    <display-name>HORIZON SPORTS</display-name>
+  </channel>
+  <channel id="HORSE RACING">
+    <display-name>HORSE RACING</display-name>
+  </channel>
+  <channel id="HORSE TV">
+    <display-name>HORSE TV</display-name>
+  </channel>
+  <channel id="HUB SPORTS 1">
+    <display-name>HUB SPORTS 1</display-name>
+  </channel>
+  <channel id="HUB SPORTS 2">
+    <display-name>HUB SPORTS 2</display-name>
+  </channel>
+  <channel id="HUB SPORTS 3">
+    <display-name>HUB SPORTS 3</display-name>
+  </channel>
+  <channel id="IMPACT! WRESTLING">
+    <display-name>IMPACT! WRESTLING</display-name>
+  </channel>
+  <channel id="IMPACT! Wrestling">
+    <display-name>IMPACT! Wrestling</display-name>
+  </channel>
+  <channel id="INDOSIAR">
+    <display-name>INDOSIAR</display-name>
+  </channel>
+  <channel id="INDOSIAR BSL⁽ˢᵉʳᵛᵉʳ ³⁾">
+    <display-name>INDOSIAR BSL⁽ˢᵉʳᵛᵉʳ ³⁾</display-name>
+  </channel>
+  <channel id="INDOSIAR BSL⁽ᴺᵉʷ⁻ˢᵉʳᵛᵉʳ ᶠᴴᴰ⁾">
+    <display-name>INDOSIAR BSL⁽ᴺᵉʷ⁻ˢᵉʳᵛᵉʳ ᶠᴴᴰ⁾</display-name>
+  </channel>
+  <channel id="INDOSIAR DIGITAL">
+    <display-name>INDOSIAR DIGITAL</display-name>
+  </channel>
+  <channel id="INDOSIAR SPORTS 1">
+    <display-name>INDOSIAR SPORTS 1</display-name>
+  </channel>
+  <channel id="INDOSIAR SPORTS 2">
+    <display-name>INDOSIAR SPORTS 2</display-name>
+  </channel>
+  <channel id="INDOSIAR WI">
+    <display-name>INDOSIAR WI</display-name>
+  </channel>
+  <channel id="INTER TV ᴴᴰ">
+    <display-name>INTER TV ᴴᴰ</display-name>
+  </channel>
+  <channel id="J SPORTS 1">
+    <display-name>J SPORTS 1</display-name>
+  </channel>
+  <channel id="J SPORTS 2">
+    <display-name>J SPORTS 2</display-name>
+  </channel>
+  <channel id="J SPORTS 3">
+    <display-name>J SPORTS 3</display-name>
+  </channel>
+  <channel id="J SPORTS 4">
+    <display-name>J SPORTS 4</display-name>
+  </channel>
+  <channel id="JOJ SPORT ᴴᴰ">
+    <display-name>JOJ SPORT ᴴᴰ</display-name>
+  </channel>
+  <channel id="JOURNAL DU GOLF">
+    <display-name>JOURNAL DU GOLF</display-name>
+  </channel>
+  <channel id="JUST FISHING">
+    <display-name>JUST FISHING</display-name>
+  </channel>
+  <channel id="KBSN SPORTS">
+    <display-name>KBSN SPORTS</display-name>
+  </channel>
+  <channel id="KOVO LIVE 1">
+    <display-name>KOVO LIVE 1</display-name>
+  </channel>
+  <channel id="KOVO LIVE 2">
+    <display-name>KOVO LIVE 2</display-name>
+  </channel>
+  <channel id="KOVO LIVE 3">
+    <display-name>KOVO LIVE 3</display-name>
+  </channel>
+  <channel id="KOVO LIVE 4">
+    <display-name>KOVO LIVE 4</display-name>
+  </channel>
+  <channel id="KOVO LIVE 5">
+    <display-name>KOVO LIVE 5</display-name>
+  </channel>
+  <channel id="LALIGA 1 BEIN 3">
+    <display-name>LALIGA 1 BEIN 3</display-name>
+  </channel>
+  <channel id="LALIGA 2 SKY 21">
+    <display-name>LALIGA 2 SKY 21</display-name>
+  </channel>
+  <channel id="LALIGA 3 CANALE 5">
+    <display-name>LALIGA 3 CANALE 5</display-name>
+  </channel>
+  <channel id="LALIGA 4 SKY 16">
+    <display-name>LALIGA 4 SKY 16</display-name>
+  </channel>
+  <channel id="LIGA 1 BRI 15:30 PERSITA VS AREMA FC">
+    <display-name>LIGA 1 BRI 15:30 PERSITA VS AREMA FC</display-name>
+  </channel>
+  <channel id="LIGA 1 BRI 19:00 PERSEBAYA VS MADURA UNITED">
+    <display-name>LIGA 1 BRI 19:00 PERSEBAYA VS MADURA UNITED</display-name>
+  </channel>
+  <channel id="LIGA 1 THAILAND⁽ˢᵉʳᵛᵉʳ ²⁾">
+    <display-name>LIGA 1 THAILAND⁽ˢᵉʳᵛᵉʳ ²⁾</display-name>
+  </channel>
+  <channel id="LIGA 1 THAILAND⁽ˢᵉʳᵛᵉʳ ¹⁾">
+    <display-name>LIGA 1 THAILAND⁽ˢᵉʳᵛᵉʳ ¹⁾</display-name>
+  </channel>
+  <channel id="LIGA BRI">
+    <display-name>LIGA BRI</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT">
+    <display-name>LIGA BRI EVENT</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT 1">
+    <display-name>LIGA BRI EVENT 1</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT 2">
+    <display-name>LIGA BRI EVENT 2</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT 3">
+    <display-name>LIGA BRI EVENT 3</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT 4">
+    <display-name>LIGA BRI EVENT 4</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT 5">
+    <display-name>LIGA BRI EVENT 5</display-name>
+  </channel>
+  <channel id="LIGA BRI EVENT N">
+    <display-name>LIGA BRI EVENT N</display-name>
+  </channel>
+  <channel id="LIGA BRI N">
+    <display-name>LIGA BRI N</display-name>
+  </channel>
+  <channel id="LIGA BRI N 1">
+    <display-name>LIGA BRI N 1</display-name>
+  </channel>
+  <channel id="LIGA BRI UP">
+    <display-name>LIGA BRI UP</display-name>
+  </channel>
+  <channel id="LIGA EVENT">
+    <display-name>LIGA EVENT</display-name>
+  </channel>
+  <channel id="LIGA PRANCIS 1">
+    <display-name>LIGA PRANCIS 1</display-name>
+  </channel>
+  <channel id="LIGA SUPER MALAYSIA⁽ˢᵉʳᵛᵉʳ ¹⁾">
+    <display-name>LIGA SUPER MALAYSIA⁽ˢᵉʳᵛᵉʳ ¹⁾</display-name>
+  </channel>
+  <channel id="M LIVE EVENT">
+    <display-name>M LIVE EVENT</display-name>
+  </channel>
+  <channel id="MAXSPORT 4">
+    <display-name>MAXSPORT 4</display-name>
+  </channel>
+  <channel id="MBC MASR 2 GETHER">
+    <display-name>MBC MASR 2 GETHER</display-name>
+  </channel>
+  <channel id="ME WATCH SPORTS">
+    <display-name>ME WATCH SPORTS</display-name>
+  </channel>
+  <channel id="MILAN TV ᴴᴰ">
+    <display-name>MILAN TV ᴴᴰ</display-name>
+  </channel>
+  <channel id="MOJI IP">
+    <display-name>MOJI IP</display-name>
+  </channel>
+  <channel id="MOJI IP 2">
+    <display-name>MOJI IP 2</display-name>
+  </channel>
+  <channel id="MOJI SPORT ᴴᴰ">
+    <display-name>MOJI SPORT ᴴᴰ</display-name>
+  </channel>
+  <channel id="MOJI WI">
+    <display-name>MOJI WI</display-name>
+  </channel>
+  <channel id="MOTOR RACING TV">
+    <display-name>MOTOR RACING TV</display-name>
+  </channel>
+  <channel id="MOTOR VISION+">
+    <display-name>MOTOR VISION+</display-name>
+  </channel>
+  <channel id="MOTORVISION TV">
+    <display-name>MOTORVISION TV</display-name>
+  </channel>
+  <channel id="MOTORVISION+">
+    <display-name>MOTORVISION+</display-name>
+  </channel>
+  <channel id="MUTV">
+    <display-name>MUTV</display-name>
+  </channel>
+  <channel id="MUTV ᴴᴰ">
+    <display-name>MUTV ᴴᴰ</display-name>
+  </channel>
+  <channel id="Motorvision TV">
+    <display-name>Motorvision TV</display-name>
+  </channel>
+  <channel id="NBA PHILIPPINES">
+    <display-name>NBA PHILIPPINES</display-name>
+  </channel>
+  <channel id="NBA TV">
+    <display-name>NBA TV</display-name>
+  </channel>
+  <channel id="NBC GOLF">
+    <display-name>NBC GOLF</display-name>
+  </channel>
+  <channel id="NOVA SPORT 1">
+    <display-name>NOVA SPORT 1</display-name>
+  </channel>
+  <channel id="NOVA SPORT 2">
+    <display-name>NOVA SPORT 2</display-name>
+  </channel>
+  <channel id="NOVA SPORT 4">
+    <display-name>NOVA SPORT 4</display-name>
+  </channel>
+  <channel id="OKEY TV">
+    <display-name>OKEY TV</display-name>
+  </channel>
+  <channel id="OMAN SPORT">
+    <display-name>OMAN SPORT</display-name>
+  </channel>
+  <channel id="ONE SPORTS">
+    <display-name>ONE SPORTS</display-name>
+  </channel>
+  <channel id="ONE SPORTS ᴴᴰ">
+    <display-name>ONE SPORTS ᴴᴰ</display-name>
+  </channel>
+  <channel id="ONE SPORTS+">
+    <display-name>ONE SPORTS+</display-name>
+  </channel>
+  <channel id="PEACOCK TV">
+    <display-name>PEACOCK TV</display-name>
+  </channel>
+  <channel id="PEACOCK TV T">
+    <display-name>PEACOCK TV T</display-name>
+  </channel>
+  <channel id="PGA TOUR">
+    <display-name>PGA TOUR</display-name>
+  </channel>
+  <channel id="PREMIER 1">
+    <display-name>PREMIER 1</display-name>
+  </channel>
+  <channel id="PREMIER LEAGUE TV">
+    <display-name>PREMIER LEAGUE TV</display-name>
+  </channel>
+  <channel id="PREMIER SPORTS">
+    <display-name>PREMIER SPORTS</display-name>
+  </channel>
+  <channel id="PREMIER SPORTS 1">
+    <display-name>PREMIER SPORTS 1</display-name>
+  </channel>
+  <channel id="PREMIER SPORTS 2">
+    <display-name>PREMIER SPORTS 2</display-name>
+  </channel>
+  <channel id="PRIMA SPORT 1">
+    <display-name>PRIMA SPORT 1</display-name>
+  </channel>
+  <channel id="PRIMA SPORT 2">
+    <display-name>PRIMA SPORT 2</display-name>
+  </channel>
+  <channel id="PRIMA SPORT 3">
+    <display-name>PRIMA SPORT 3</display-name>
+  </channel>
+  <channel id="PRIMA SPORT 4">
+    <display-name>PRIMA SPORT 4</display-name>
+  </channel>
+  <channel id="PRIMA SPORT 5">
+    <display-name>PRIMA SPORT 5</display-name>
+  </channel>
+  <channel id="PRIMA SPORTS 1">
+    <display-name>PRIMA SPORTS 1</display-name>
+  </channel>
+  <channel id="PRIMA SPORTS 2">
+    <display-name>PRIMA SPORTS 2</display-name>
+  </channel>
+  <channel id="PRIMA SPORTS 3">
+    <display-name>PRIMA SPORTS 3</display-name>
+  </channel>
+  <channel id="PRIMA SPORTS 4">
+    <display-name>PRIMA SPORTS 4</display-name>
+  </channel>
+  <channel id="PRO LIGA 1">
+    <display-name>PRO LIGA 1</display-name>
+  </channel>
+  <channel id="PRO LIGA 16:00 JAKARTA POPSIVO POLWAN VS JAKARTA ELECTRIC PLN">
+    <display-name>PRO LIGA 16:00 JAKARTA POPSIVO POLWAN VS JAKARTA ELECTRIC PLN</display-name>
+  </channel>
+  <channel id="PRO LIGA 19:00 JAKARTA LAVANI LIVIN TRANSMEDIA VS SURABAYA SAMATOR">
+    <display-name>PRO LIGA 19:00 JAKARTA LAVANI LIVIN TRANSMEDIA VS SURABAYA SAMATOR</display-name>
+  </channel>
+  <channel id="PSJ TV">
+    <display-name>PSJ TV</display-name>
+  </channel>
+  <channel id="Peacock Premier League">
+    <display-name>Peacock Premier League</display-name>
+  </channel>
+  <channel id="Prima Sport 1">
+    <display-name>Prima Sport 1</display-name>
+  </channel>
+  <channel id="Prima Sport 2">
+    <display-name>Prima Sport 2</display-name>
+  </channel>
+  <channel id="Prima Sport 3">
+    <display-name>Prima Sport 3</display-name>
+  </channel>
+  <channel id="Prima Sport 4">
+    <display-name>Prima Sport 4</display-name>
+  </channel>
+  <channel id="Prima Sport 5">
+    <display-name>Prima Sport 5</display-name>
+  </channel>
+  <channel id="RAI SPORTS ᴴᴰ">
+    <display-name>RAI SPORTS ᴴᴰ</display-name>
+  </channel>
+  <channel id="RCTI DIGITAL">
+    <display-name>RCTI DIGITAL</display-name>
+  </channel>
+  <channel id="RCTI SPORTS">
+    <display-name>RCTI SPORTS</display-name>
+  </channel>
+  <channel id="REAL MADRID TV EN">
+    <display-name>REAL MADRID TV EN</display-name>
+  </channel>
+  <channel id="REAL MADRID TV ᴴᴰ">
+    <display-name>REAL MADRID TV ᴴᴰ</display-name>
+  </channel>
+  <channel id="RED BULL TV">
+    <display-name>RED BULL TV</display-name>
+  </channel>
+  <channel id="REDBULL TV">
+    <display-name>REDBULL TV</display-name>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name>Real Madrid TV</display-name>
+  </channel>
+  <channel id="Red Bull TV">
+    <display-name>Red Bull TV</display-name>
+  </channel>
+  <channel id="SBS SPORTS">
+    <display-name>SBS SPORTS</display-name>
+  </channel>
+  <channel id="SBS SPORTS 1">
+    <display-name>SBS SPORTS 1</display-name>
+  </channel>
+  <channel id="SEA GAMES 1">
+    <display-name>SEA GAMES 1</display-name>
+  </channel>
+  <channel id="SEA GAMES 10">
+    <display-name>SEA GAMES 10</display-name>
+  </channel>
+  <channel id="SEA GAMES 11">
+    <display-name>SEA GAMES 11</display-name>
+  </channel>
+  <channel id="SEA GAMES 12">
+    <display-name>SEA GAMES 12</display-name>
+  </channel>
+  <channel id="SEA GAMES 13">
+    <display-name>SEA GAMES 13</display-name>
+  </channel>
+  <channel id="SEA GAMES 14">
+    <display-name>SEA GAMES 14</display-name>
+  </channel>
+  <channel id="SEA GAMES 2">
+    <display-name>SEA GAMES 2</display-name>
+  </channel>
+  <channel id="SEA GAMES 3">
+    <display-name>SEA GAMES 3</display-name>
+  </channel>
+  <channel id="SEA GAMES 4">
+    <display-name>SEA GAMES 4</display-name>
+  </channel>
+  <channel id="SEA GAMES 5">
+    <display-name>SEA GAMES 5</display-name>
+  </channel>
+  <channel id="SEA GAMES 6">
+    <display-name>SEA GAMES 6</display-name>
+  </channel>
+  <channel id="SEA GAMES 7">
+    <display-name>SEA GAMES 7</display-name>
+  </channel>
+  <channel id="SEA GAMES 8">
+    <display-name>SEA GAMES 8</display-name>
+  </channel>
+  <channel id="SEA GAMES 9">
+    <display-name>SEA GAMES 9</display-name>
+  </channel>
+  <channel id="SEA Games CH01">
+    <display-name>SEA Games CH01</display-name>
+  </channel>
+  <channel id="SEA Games CH02">
+    <display-name>SEA Games CH02</display-name>
+  </channel>
+  <channel id="SEA Games CH03">
+    <display-name>SEA Games CH03</display-name>
+  </channel>
+  <channel id="SEA Games CH04">
+    <display-name>SEA Games CH04</display-name>
+  </channel>
+  <channel id="SEA Games CH05">
+    <display-name>SEA Games CH05</display-name>
+  </channel>
+  <channel id="SEA V LEAGUE A">
+    <display-name>SEA V LEAGUE A</display-name>
+  </channel>
+  <channel id="SEA V LEAGUE GMM">
+    <display-name>SEA V LEAGUE GMM</display-name>
+  </channel>
+  <channel id="SEA V LEAGUE ONE">
+    <display-name>SEA V LEAGUE ONE</display-name>
+  </channel>
+  <channel id="SEA V LEAGUE ONE SPORT">
+    <display-name>SEA V LEAGUE ONE SPORT</display-name>
+  </channel>
+  <channel id="SEA V LEAGUE ONE SPORT+">
+    <display-name>SEA V LEAGUE ONE SPORT+</display-name>
+  </channel>
+  <channel id="SERIE A 1 PLUTO">
+    <display-name>SERIE A 1 PLUTO</display-name>
+  </channel>
+  <channel id="SERIE A 2 SPORT 1">
+    <display-name>SERIE A 2 SPORT 1</display-name>
+  </channel>
+  <channel id="SERIE A 3 SPORT 2">
+    <display-name>SERIE A 3 SPORT 2</display-name>
+  </channel>
+  <channel id="SETANTA SPORT">
+    <display-name>SETANTA SPORT</display-name>
+  </channel>
+  <channel id="SHARJAH SPORT">
+    <display-name>SHARJAH SPORT</display-name>
+  </channel>
+  <channel id="SKY LIVE 1">
+    <display-name>SKY LIVE 1</display-name>
+  </channel>
+  <channel id="SKY LIVE 2">
+    <display-name>SKY LIVE 2</display-name>
+  </channel>
+  <channel id="SKY LIVE 3">
+    <display-name>SKY LIVE 3</display-name>
+  </channel>
+  <channel id="SKY LIVE 4">
+    <display-name>SKY LIVE 4</display-name>
+  </channel>
+  <channel id="SKY LIVE 5">
+    <display-name>SKY LIVE 5</display-name>
+  </channel>
+  <channel id="SKY LIVE 6">
+    <display-name>SKY LIVE 6</display-name>
+  </channel>
+  <channel id="SKY LIVE 7">
+    <display-name>SKY LIVE 7</display-name>
+  </channel>
+  <channel id="SKY SPORT ARENA ᴴᴰ">
+    <display-name>SKY SPORT ARENA ᴴᴰ</display-name>
+  </channel>
+  <channel id="SKY SPORT F1 ᴴᴰ">
+    <display-name>SKY SPORT F1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SKY SPORTS">
+    <display-name>SKY SPORTS</display-name>
+  </channel>
+  <channel id="SKY SPORTS 2">
+    <display-name>SKY SPORTS 2</display-name>
+  </channel>
+  <channel id="SKY SPORTS BUNDESLIGA">
+    <display-name>SKY SPORTS BUNDESLIGA</display-name>
+  </channel>
+  <channel id="SKY SPORTS BUNDESLIGA ᴴᴰ">
+    <display-name>SKY SPORTS BUNDESLIGA ᴴᴰ</display-name>
+  </channel>
+  <channel id="SKY SPORTS EPL">
+    <display-name>SKY SPORTS EPL</display-name>
+  </channel>
+  <channel id="SKY SPORTS F1">
+    <display-name>SKY SPORTS F1</display-name>
+  </channel>
+  <channel id="SKY SPORTS FOOTBALL">
+    <display-name>SKY SPORTS FOOTBALL</display-name>
+  </channel>
+  <channel id="SKY SPORTS GOLF ᴴᴰ">
+    <display-name>SKY SPORTS GOLF ᴴᴰ</display-name>
+  </channel>
+  <channel id="SKY SPORTS LALIGA">
+    <display-name>SKY SPORTS LALIGA</display-name>
+  </channel>
+  <channel id="SKY SPORTS LIVE 5">
+    <display-name>SKY SPORTS LIVE 5</display-name>
+  </channel>
+  <channel id="SKY SPORTS LIVE 6">
+    <display-name>SKY SPORTS LIVE 6</display-name>
+  </channel>
+  <channel id="SKY SPORTS MAIN">
+    <display-name>SKY SPORTS MAIN</display-name>
+  </channel>
+  <channel id="SKY SPORTS MOTO GP">
+    <display-name>SKY SPORTS MOTO GP</display-name>
+  </channel>
+  <channel id="SKY SPORTS PREMIERE LEAGUE">
+    <display-name>SKY SPORTS PREMIERE LEAGUE</display-name>
+  </channel>
+  <channel id="SKY SPORTS+">
+    <display-name>SKY SPORTS+</display-name>
+  </channel>
+  <channel id="SLOVAKIA: Nova Sport 1">
+    <display-name>SLOVAKIA: Nova Sport 1</display-name>
+  </channel>
+  <channel id="SLOVAKIA: Nova Sport 2">
+    <display-name>SLOVAKIA: Nova Sport 2</display-name>
+  </channel>
+  <channel id="SLOVAKIA: SPORT 1">
+    <display-name>SLOVAKIA: SPORT 1</display-name>
+  </channel>
+  <channel id="SLOVAKIA: SPORT 2">
+    <display-name>SLOVAKIA: SPORT 2</display-name>
+  </channel>
+  <channel id="SOCCER CHANNEL">
+    <display-name>SOCCER CHANNEL</display-name>
+  </channel>
+  <channel id="SONY SPORTS 2">
+    <display-name>SONY SPORTS 2</display-name>
+  </channel>
+  <channel id="SONY SPORTS 3">
+    <display-name>SONY SPORTS 3</display-name>
+  </channel>
+  <channel id="SONY SPORTS TEN 1">
+    <display-name>SONY SPORTS TEN 1</display-name>
+  </channel>
+  <channel id="SONY TEN 1">
+    <display-name>SONY TEN 1</display-name>
+  </channel>
+  <channel id="SONY TEN 1 ᴴᴰ">
+    <display-name>SONY TEN 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SONY TEN 2">
+    <display-name>SONY TEN 2</display-name>
+  </channel>
+  <channel id="SONY TEN 2 ᴴᴰ">
+    <display-name>SONY TEN 2 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SONY TEN 3">
+    <display-name>SONY TEN 3</display-name>
+  </channel>
+  <channel id="SONY TEN 3 ᴴᴰ">
+    <display-name>SONY TEN 3 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SONY TEN 4">
+    <display-name>SONY TEN 4</display-name>
+  </channel>
+  <channel id="SONY TEN 4 ᴴᴰ">
+    <display-name>SONY TEN 4 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SONY TEN 5">
+    <display-name>SONY TEN 5</display-name>
+  </channel>
+  <channel id="SONY TEN 5 ᴴᴰ">
+    <display-name>SONY TEN 5 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SPEED TV">
+    <display-name>SPEED TV</display-name>
+  </channel>
+  <channel id="SPORT 1">
+    <display-name>SPORT 1</display-name>
+  </channel>
+  <channel id="SPORT 1 SK">
+    <display-name>SPORT 1 SK</display-name>
+  </channel>
+  <channel id="SPORT 2">
+    <display-name>SPORT 2</display-name>
+  </channel>
+  <channel id="SPORT 2 SK">
+    <display-name>SPORT 2 SK</display-name>
+  </channel>
+  <channel id="SPORT.TV 1">
+    <display-name>SPORT.TV 1</display-name>
+  </channel>
+  <channel id="SPORT.TV 2">
+    <display-name>SPORT.TV 2</display-name>
+  </channel>
+  <channel id="SPORTDIGITAL">
+    <display-name>SPORTDIGITAL</display-name>
+  </channel>
+  <channel id="SPORTS 2">
+    <display-name>SPORTS 2</display-name>
+  </channel>
+  <channel id="SPORTS TV">
+    <display-name>SPORTS TV</display-name>
+  </channel>
+  <channel id="SPORTS TV TURKEY">
+    <display-name>SPORTS TV TURKEY</display-name>
+  </channel>
+  <channel id="SPORTSTARS">
+    <display-name>SPORTSTARS</display-name>
+  </channel>
+  <channel id="SPORTSTARS 1">
+    <display-name>SPORTSTARS 1</display-name>
+  </channel>
+  <channel id="SPORTSTARS 2">
+    <display-name>SPORTSTARS 2</display-name>
+  </channel>
+  <channel id="SPORTSTARS 2 BC">
+    <display-name>SPORTSTARS 2 BC</display-name>
+  </channel>
+  <channel id="SPORTSTARS 3">
+    <display-name>SPORTSTARS 3</display-name>
+  </channel>
+  <channel id="SPORTSTARS 4">
+    <display-name>SPORTSTARS 4</display-name>
+  </channel>
+  <channel id="SPORTV 1">
+    <display-name>SPORTV 1</display-name>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name>SPORTV 2</display-name>
+  </channel>
+  <channel id="SPORTV 2 VNL">
+    <display-name>SPORTV 2 VNL</display-name>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name>SPORTV 3</display-name>
+  </channel>
+  <channel id="SPORTV AO VIVO">
+    <display-name>SPORTV AO VIVO</display-name>
+  </channel>
+  <channel id="SPOT TV">
+    <display-name>SPOT TV</display-name>
+  </channel>
+  <channel id="SPOT TV 2">
+    <display-name>SPOT TV 2</display-name>
+  </channel>
+  <channel id="SPOTV">
+    <display-name>SPOTV</display-name>
+  </channel>
+  <channel id="SPOTV 2">
+    <display-name>SPOTV 2</display-name>
+  </channel>
+  <channel id="SPOTV 2 PH">
+    <display-name>SPOTV 2 PH</display-name>
+  </channel>
+  <channel id="SPOTV 2 V">
+    <display-name>SPOTV 2 V</display-name>
+  </channel>
+  <channel id="SPOTV 2 V+">
+    <display-name>SPOTV 2 V+</display-name>
+  </channel>
+  <channel id="SPOTV FM">
+    <display-name>SPOTV FM</display-name>
+  </channel>
+  <channel id="SPOTV PH">
+    <display-name>SPOTV PH</display-name>
+  </channel>
+  <channel id="SPOTV PRIME">
+    <display-name>SPOTV PRIME</display-name>
+  </channel>
+  <channel id="SPOTV PRIME 2">
+    <display-name>SPOTV PRIME 2</display-name>
+  </channel>
+  <channel id="SPOTV PRIME PLUS">
+    <display-name>SPOTV PRIME PLUS</display-name>
+  </channel>
+  <channel id="SPOTV V">
+    <display-name>SPOTV V</display-name>
+  </channel>
+  <channel id="SPOTV V+">
+    <display-name>SPOTV V+</display-name>
+  </channel>
+  <channel id="SPOTV2 FM">
+    <display-name>SPOTV2 FM</display-name>
+  </channel>
+  <channel id="SSC 1">
+    <display-name>SSC 1</display-name>
+  </channel>
+  <channel id="SSC 1ᴴᴰ">
+    <display-name>SSC 1ᴴᴰ</display-name>
+  </channel>
+  <channel id="SSC 2">
+    <display-name>SSC 2</display-name>
+  </channel>
+  <channel id="SSC 2ᴴᴰ">
+    <display-name>SSC 2ᴴᴰ</display-name>
+  </channel>
+  <channel id="SSC 3">
+    <display-name>SSC 3</display-name>
+  </channel>
+  <channel id="SSC 3ᴴᴰ">
+    <display-name>SSC 3ᴴᴰ</display-name>
+  </channel>
+  <channel id="SSC 4">
+    <display-name>SSC 4</display-name>
+  </channel>
+  <channel id="SSC 4ᴴᴰ">
+    <display-name>SSC 4ᴴᴰ</display-name>
+  </channel>
+  <channel id="SSC 5">
+    <display-name>SSC 5</display-name>
+  </channel>
+  <channel id="SSC 5ᴴᴰ">
+    <display-name>SSC 5ᴴᴰ</display-name>
+  </channel>
+  <channel id="SSC EXTRA 1">
+    <display-name>SSC EXTRA 1</display-name>
+  </channel>
+  <channel id="SSC EXTRA 2">
+    <display-name>SSC EXTRA 2</display-name>
+  </channel>
+  <channel id="SSC EXTRA 3">
+    <display-name>SSC EXTRA 3</display-name>
+  </channel>
+  <channel id="STAR SPORT 1">
+    <display-name>STAR SPORT 1</display-name>
+  </channel>
+  <channel id="STAR SPORTS 1">
+    <display-name>STAR SPORTS 1</display-name>
+  </channel>
+  <channel id="STAR SPORTS 2">
+    <display-name>STAR SPORTS 2</display-name>
+  </channel>
+  <channel id="STAR SPORTS 2 ᴴᴰ">
+    <display-name>STAR SPORTS 2 ᴴᴰ</display-name>
+  </channel>
+  <channel id="STAR SPORTS SELECT 1">
+    <display-name>STAR SPORTS SELECT 1</display-name>
+  </channel>
+  <channel id="STAR SPORTS SELECT 1 ᴴᴰ">
+    <display-name>STAR SPORTS SELECT 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="SUPER SPORT 1">
+    <display-name>SUPER SPORT 1</display-name>
+  </channel>
+  <channel id="SUPER SPORT 2">
+    <display-name>SUPER SPORT 2</display-name>
+  </channel>
+  <channel id="SUPER SPORT 3">
+    <display-name>SUPER SPORT 3</display-name>
+  </channel>
+  <channel id="Sky Sport F1">
+    <display-name>Sky Sport F1</display-name>
+  </channel>
+  <channel id="Sky Sport Racing">
+    <display-name>Sky Sport Racing</display-name>
+  </channel>
+  <channel id="SkySportBundesliga">
+    <display-name>SkySportBundesliga</display-name>
+  </channel>
+  <channel id="SkySportF1">
+    <display-name>SkySportF1</display-name>
+  </channel>
+  <channel id="SkySportMotoGP">
+    <display-name>SkySportMotoGP</display-name>
+  </channel>
+  <channel id="SkySportsFootball">
+    <display-name>SkySportsFootball</display-name>
+  </channel>
+  <channel id="SkySportsLaliga">
+    <display-name>SkySportsLaliga</display-name>
+  </channel>
+  <channel id="SkySportsPremiereLeague">
+    <display-name>SkySportsPremiereLeague</display-name>
+  </channel>
+  <channel id="Soccer Channel">
+    <display-name>Soccer Channel</display-name>
+  </channel>
+  <channel id="Soccer Channel V+">
+    <display-name>Soccer Channel V+</display-name>
+  </channel>
+  <channel id="SpoTV">
+    <display-name>SpoTV</display-name>
+  </channel>
+  <channel id="SpoTV 1 PH">
+    <display-name>SpoTV 1 PH</display-name>
+  </channel>
+  <channel id="SpoTV 2">
+    <display-name>SpoTV 2</display-name>
+  </channel>
+  <channel id="SpoTV 2 PH">
+    <display-name>SpoTV 2 PH</display-name>
+  </channel>
+  <channel id="SportTV 1">
+    <display-name>SportTV 1</display-name>
+  </channel>
+  <channel id="SportTV 2">
+    <display-name>SportTV 2</display-name>
+  </channel>
+  <channel id="SportTV 3">
+    <display-name>SportTV 3</display-name>
+  </channel>
+  <channel id="Sportstars 1">
+    <display-name>Sportstars 1</display-name>
+  </channel>
+  <channel id="Sportstars 2">
+    <display-name>Sportstars 2</display-name>
+  </channel>
+  <channel id="Sportstars 3">
+    <display-name>Sportstars 3</display-name>
+  </channel>
+  <channel id="Sportstars 4">
+    <display-name>Sportstars 4</display-name>
+  </channel>
+  <channel id="Sukan TV">
+    <display-name>Sukan TV</display-name>
+  </channel>
+  <channel id="TABII SPOR">
+    <display-name>TABII SPOR</display-name>
+  </channel>
+  <channel id="TABII SPOR 1">
+    <display-name>TABII SPOR 1</display-name>
+  </channel>
+  <channel id="TABII SPOR 2">
+    <display-name>TABII SPOR 2</display-name>
+  </channel>
+  <channel id="TABII SPOR 3">
+    <display-name>TABII SPOR 3</display-name>
+  </channel>
+  <channel id="TEN SPORTS">
+    <display-name>TEN SPORTS</display-name>
+  </channel>
+  <channel id="TEN SPORTS ᴴᴰ">
+    <display-name>TEN SPORTS ᴴᴰ</display-name>
+  </channel>
+  <channel id="TENNIS CHANNEL 1">
+    <display-name>TENNIS CHANNEL 1</display-name>
+  </channel>
+  <channel id="TENNIS CHANNEL 2">
+    <display-name>TENNIS CHANNEL 2</display-name>
+  </channel>
+  <channel id="THAPCAM TV 01">
+    <display-name>THAPCAM TV 01</display-name>
+  </channel>
+  <channel id="THAPCAM TV 02">
+    <display-name>THAPCAM TV 02</display-name>
+  </channel>
+  <channel id="THAPCAM TV 03">
+    <display-name>THAPCAM TV 03</display-name>
+  </channel>
+  <channel id="THAPCAM TV 04">
+    <display-name>THAPCAM TV 04</display-name>
+  </channel>
+  <channel id="THAPCAM TV 05">
+    <display-name>THAPCAM TV 05</display-name>
+  </channel>
+  <channel id="THAPCAM TV 06">
+    <display-name>THAPCAM TV 06</display-name>
+  </channel>
+  <channel id="THAPCAM TV 07">
+    <display-name>THAPCAM TV 07</display-name>
+  </channel>
+  <channel id="THAPCAM TV 08">
+    <display-name>THAPCAM TV 08</display-name>
+  </channel>
+  <channel id="THAPCAM TV 09">
+    <display-name>THAPCAM TV 09</display-name>
+  </channel>
+  <channel id="THAPCAM TV 10">
+    <display-name>THAPCAM TV 10</display-name>
+  </channel>
+  <channel id="THAPCAM TV 11">
+    <display-name>THAPCAM TV 11</display-name>
+  </channel>
+  <channel id="THAPCAM TV 12">
+    <display-name>THAPCAM TV 12</display-name>
+  </channel>
+  <channel id="THAPCAM TV 13">
+    <display-name>THAPCAM TV 13</display-name>
+  </channel>
+  <channel id="THAPCAM TV 14">
+    <display-name>THAPCAM TV 14</display-name>
+  </channel>
+  <channel id="THAPCAM TV 15">
+    <display-name>THAPCAM TV 15</display-name>
+  </channel>
+  <channel id="THAPCAM TV 16">
+    <display-name>THAPCAM TV 16</display-name>
+  </channel>
+  <channel id="THAPCAM TV 17">
+    <display-name>THAPCAM TV 17</display-name>
+  </channel>
+  <channel id="THAPCAM TV 18">
+    <display-name>THAPCAM TV 18</display-name>
+  </channel>
+  <channel id="THAPCAM TV 19">
+    <display-name>THAPCAM TV 19</display-name>
+  </channel>
+  <channel id="THAPCAM TV 20">
+    <display-name>THAPCAM TV 20</display-name>
+  </channel>
+  <channel id="THAPCAM TV 21">
+    <display-name>THAPCAM TV 21</display-name>
+  </channel>
+  <channel id="THAPCAM TV 22">
+    <display-name>THAPCAM TV 22</display-name>
+  </channel>
+  <channel id="THAPCAM TV 23">
+    <display-name>THAPCAM TV 23</display-name>
+  </channel>
+  <channel id="THAPCAM TV 24">
+    <display-name>THAPCAM TV 24</display-name>
+  </channel>
+  <channel id="THAPCAM TV 25">
+    <display-name>THAPCAM TV 25</display-name>
+  </channel>
+  <channel id="THAPCAM TV 26">
+    <display-name>THAPCAM TV 26</display-name>
+  </channel>
+  <channel id="THAPCAM TV 27">
+    <display-name>THAPCAM TV 27</display-name>
+  </channel>
+  <channel id="THAPCAM TV 28">
+    <display-name>THAPCAM TV 28</display-name>
+  </channel>
+  <channel id="TIMNAS DAY">
+    <display-name>TIMNAS DAY</display-name>
+  </channel>
+  <channel id="TIMNAS DAY 2">
+    <display-name>TIMNAS DAY 2</display-name>
+  </channel>
+  <channel id="TIMNAS DAY 3">
+    <display-name>TIMNAS DAY 3</display-name>
+  </channel>
+  <channel id="TIMNAS DAY 4">
+    <display-name>TIMNAS DAY 4</display-name>
+  </channel>
+  <channel id="TIMNAS DAY BC 1">
+    <display-name>TIMNAS DAY BC 1</display-name>
+  </channel>
+  <channel id="TIMNAS DAY BC 2">
+    <display-name>TIMNAS DAY BC 2</display-name>
+  </channel>
+  <channel id="TIMNAS DAY BC 3">
+    <display-name>TIMNAS DAY BC 3</display-name>
+  </channel>
+  <channel id="TNT SPORTS 1">
+    <display-name>TNT SPORTS 1</display-name>
+  </channel>
+  <channel id="TNT SPORTS 2">
+    <display-name>TNT SPORTS 2</display-name>
+  </channel>
+  <channel id="TNT SPORTS 3">
+    <display-name>TNT SPORTS 3</display-name>
+  </channel>
+  <channel id="TNT SPORTS 4">
+    <display-name>TNT SPORTS 4</display-name>
+  </channel>
+  <channel id="TNT Sports 1">
+    <display-name>TNT Sports 1</display-name>
+  </channel>
+  <channel id="TNT Sports 2">
+    <display-name>TNT Sports 2</display-name>
+  </channel>
+  <channel id="TNT Sports 3">
+    <display-name>TNT Sports 3</display-name>
+  </channel>
+  <channel id="TNT Sports 4">
+    <display-name>TNT Sports 4</display-name>
+  </channel>
+  <channel id="TRACE SPORTS">
+    <display-name>TRACE SPORTS</display-name>
+  </channel>
+  <channel id="TRT SPOR">
+    <display-name>TRT SPOR</display-name>
+  </channel>
+  <channel id="TRT SPOR BC">
+    <display-name>TRT SPOR BC</display-name>
+  </channel>
+  <channel id="TRT SPOR VNL">
+    <display-name>TRT SPOR VNL</display-name>
+  </channel>
+  <channel id="TRUE GOLF CHANNEL">
+    <display-name>TRUE GOLF CHANNEL</display-name>
+  </channel>
+  <channel id="TSN 1">
+    <display-name>TSN 1</display-name>
+  </channel>
+  <channel id="TSN 2">
+    <display-name>TSN 2</display-name>
+  </channel>
+  <channel id="TSN 3">
+    <display-name>TSN 3</display-name>
+  </channel>
+  <channel id="TSN 4">
+    <display-name>TSN 4</display-name>
+  </channel>
+  <channel id="TSN 5">
+    <display-name>TSN 5</display-name>
+  </channel>
+  <channel id="TUDN">
+    <display-name>TUDN</display-name>
+  </channel>
+  <channel id="TV2 SPORT">
+    <display-name>TV2 SPORT</display-name>
+  </channel>
+  <channel id="TVRI SPORT">
+    <display-name>TVRI SPORT</display-name>
+  </channel>
+  <channel id="TVRI SPORT ᴴᴰ">
+    <display-name>TVRI SPORT ᴴᴰ</display-name>
+  </channel>
+  <channel id="TyC SPORTS">
+    <display-name>TyC SPORTS</display-name>
+  </channel>
+  <channel id="UAAP VARSITY">
+    <display-name>UAAP VARSITY</display-name>
+  </channel>
+  <channel id="UCL EVENT">
+    <display-name>UCL EVENT</display-name>
+  </channel>
+  <channel id="UFC">
+    <display-name>UFC</display-name>
+  </channel>
+  <channel id="UNIFI SPORTS">
+    <display-name>UNIFI SPORTS</display-name>
+  </channel>
+  <channel id="UNITED FIGHT ALIANCE">
+    <display-name>UNITED FIGHT ALIANCE</display-name>
+  </channel>
+  <channel id="USA">
+    <display-name>USA</display-name>
+  </channel>
+  <channel id="UZIVO TV">
+    <display-name>UZIVO TV</display-name>
+  </channel>
+  <channel id="VIAPLAY SPORT FOOTBALL OTT">
+    <display-name>VIAPLAY SPORT FOOTBALL OTT</display-name>
+  </channel>
+  <channel id="VIAPLAY SPORT OTT">
+    <display-name>VIAPLAY SPORT OTT</display-name>
+  </channel>
+  <channel id="VIAPLAY SPORT PREMIUM 0TT">
+    <display-name>VIAPLAY SPORT PREMIUM 0TT</display-name>
+  </channel>
+  <channel id="VIX TUDN">
+    <display-name>VIX TUDN</display-name>
+  </channel>
+  <channel id="VNL ARENA 1">
+    <display-name>VNL ARENA 1</display-name>
+  </channel>
+  <channel id="VNL SERVER 1">
+    <display-name>VNL SERVER 1</display-name>
+  </channel>
+  <channel id="VNL SERVER 2">
+    <display-name>VNL SERVER 2</display-name>
+  </channel>
+  <channel id="VNL SERVER 3">
+    <display-name>VNL SERVER 3</display-name>
+  </channel>
+  <channel id="VNL SERVER 4">
+    <display-name>VNL SERVER 4</display-name>
+  </channel>
+  <channel id="VNL SERVER A">
+    <display-name>VNL SERVER A</display-name>
+  </channel>
+  <channel id="VNL TRTSPOR IP">
+    <display-name>VNL TRTSPOR IP</display-name>
+  </channel>
+  <channel id="VOLI SPORT">
+    <display-name>VOLI SPORT</display-name>
+  </channel>
+  <channel id="VOLI TV">
+    <display-name>VOLI TV</display-name>
+  </channel>
+  <channel id="VOOSPORT ᴴᴰ">
+    <display-name>VOOSPORT ᴴᴰ</display-name>
+  </channel>
+  <channel id="VS KORUT">
+    <display-name>VS KORUT</display-name>
+  </channel>
+  <channel id="W SPORT">
+    <display-name>W SPORT</display-name>
+  </channel>
+  <channel id="W SPORTS">
+    <display-name>W SPORTS</display-name>
+  </channel>
+  <channel id="WE DO SPORT">
+    <display-name>WE DO SPORT</display-name>
+  </channel>
+  <channel id="WORLD CUP U17 2025⁽ˢᵉʳᵛᵉʳ ¹⁾">
+    <display-name>WORLD CUP U17 2025⁽ˢᵉʳᵛᵉʳ ¹⁾</display-name>
+  </channel>
+  <channel id="WWE NETWORK">
+    <display-name>WWE NETWORK</display-name>
+  </channel>
+  <channel id="WWE NXT ᴴᴰ">
+    <display-name>WWE NXT ᴴᴰ</display-name>
+  </channel>
+  <channel id="WWE ᴴᴰ">
+    <display-name>WWE ᴴᴰ</display-name>
+  </channel>
+  <channel id="WWW LIVE">
+    <display-name>WWW LIVE</display-name>
+  </channel>
+  <channel id="XTREAM SPORTS">
+    <display-name>XTREAM SPORTS</display-name>
+  </channel>
+  <channel id="XTREM SPORTS">
+    <display-name>XTREM SPORTS</display-name>
+  </channel>
+  <channel id="ZIGGO SPORT 1">
+    <display-name>ZIGGO SPORT 1</display-name>
+  </channel>
+  <channel id="ZIGGO SPORT 2">
+    <display-name>ZIGGO SPORT 2</display-name>
+  </channel>
+  <channel id="ZIGGO SPORT 3">
+    <display-name>ZIGGO SPORT 3</display-name>
+  </channel>
+  <channel id="ZIGGO SPORT 4">
+    <display-name>ZIGGO SPORT 4</display-name>
+  </channel>
+  <channel id="ZIGGO SPORT 5">
+    <display-name>ZIGGO SPORT 5</display-name>
+  </channel>
+  <channel id="beIN Sports 1">
+    <display-name>beIN Sports 1</display-name>
+  </channel>
+  <channel id="beIN Sports 2">
+    <display-name>beIN Sports 2</display-name>
+  </channel>
+  <channel id="beIN Sports 3">
+    <display-name>beIN Sports 3</display-name>
+  </channel>
+  <channel id="beIN Sports 4">
+    <display-name>beIN Sports 4</display-name>
+  </channel>
+  <channel id="beIN Sports 5">
+    <display-name>beIN Sports 5</display-name>
+  </channel>
+  <channel id="ᴬᵀᵀᴱᴺᵀᴵᴼᴺ">
+    <display-name>ᴬᵀᵀᴱᴺᵀᴵᴼᴺ</display-name>
+  </channel>
+  <channel id="ᴷᴼᴾᴵ ˢᵁˢᵁ">
+    <display-name>ᴷᴼᴾᴵ ˢᵁˢᵁ</display-name>
+  </channel>
+</tv>
