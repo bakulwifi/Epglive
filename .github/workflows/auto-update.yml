@@ -1,28 +1,53 @@
-name: Auto Update Soccer EPG & Live Event
+name: Auto Update Live & Jadwal Bola
 
 on:
+  # 1. Jalan otomatis tiap 5 menit
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
+
+  # 2. Manual run (opsional)
   workflow_dispatch:
+
+  # 3. Jalan otomatis jika file sumber berubah
+  push:
+    paths:
+      - "epg.xml"
+      - "playlist.m3u"
+      - "*.py"
+      - "requirements.txt"
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-    - uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-    - run: python epg_generator.py
-    - run: python live_event_generator.py
+      - name: Generate live.m3u
+        run: |
+          python live_event_generator.py
 
-    - run: |
-        git config user.name "github-actions"
-        git config user.email "actions@github.com"
-        git add epg.xml live.m3u
-        git diff --cached --quiet || git commit -m "Auto update soccer EPG & Live Event"
-        git push
+      - name: Commit & push if live.m3u changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add live.m3u
+
+          # Commit hanya jika ada perubahan
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update live.m3u"
+            git push
+          else
+            echo "No changes to commit"
+          fi
