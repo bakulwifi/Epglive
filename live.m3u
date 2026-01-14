@@ -7,8 +7,8 @@ https://bwifi.my.id/hls/video.m3u8
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",MUTV 2025/26: MUN Vs BHA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",MUTV Match Day: MUN Vs BHA (14:50)
-https://bwifi.my.id/hls/video.m3u8
+#EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",MUTV Match Day: MUN Vs BHA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TGL S2: Boston Vs Los Angeles (18:40)
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",UCL 2025/26: STG Vs MAR (20:40)
@@ -29,8 +29,8 @@ https://bwifi.my.id/hls/video.m3u8
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TotalEnergies AFCON 2025 (14:10)
 https://bwifi.my.id/hls/video.m3u8
-#EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2 2025/26: RAC Vs ZAR (14:50)
-https://bwifi.my.id/hls/video.m3u8
+#EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2 2025/26: RAC Vs ZAR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga Highlights 2025/26 (17:20)
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2025/26: SEV Vs CEL (17:55)
@@ -191,8 +191,8 @@ https://bwifi.my.id/hls/video.m3u8
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TATA Indian Premier League 2025: M65 - Royal Challengers Bengaluru vs Sunrisers
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TATA Indian Premier League 2025: M70 - Lucknow Super Giants vs Royal Challengers (14:50)
-https://bwifi.my.id/hls/video.m3u8
+#EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TATA Indian Premier League 2025: M70 - Lucknow Super Giants vs Royal Challengers
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TATA Indian Premier League 2025: M71 - Qualifier 1 - Punjab Kings vs Royal Chall (19:45)
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",TATA Indian Premier League 2025: M74 - Final - Royal Challengers Bengaluru vs Pu (08:35)
@@ -269,8 +269,8 @@ https://bwifi.my.id/hls/video.m3u8
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",FIM World Supercross Championship 2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2 2025/26: Racing de Santander vs Zaragoza (14:50)
-https://bwifi.my.id/hls/video.m3u8
+#EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2 2025/26: Racing de Santander vs Zaragoza
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga Highlights 2025/26 (17:20)
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",LaLiga 2025/26: Sevilla vs Celta Vigo (17:55)
@@ -341,8 +341,8 @@ https://bwifi.my.id/hls/video.m3u8
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",New Zealand tour of India, 2026 H/Ls: IND v NZ, 1st ODI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",New Zealand tour of India, 2026: IND v NZ, 2nd ODI (14:50)
-https://bwifi.my.id/hls/video.m3u8
+#EXTINF:-1  tvg-id="576059" group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",New Zealand tour of India, 2026: IND v NZ, 2nd ODI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",SA20 2025-26: M23: SEC v JSK (22:40)
 https://bwifi.my.id/hls/video.m3u8
 #EXTINF:-1  tvg-id="576059" group-title="JADWAL EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250",ILT20 2025-26 H/Ls: M24: DV v MIE (02:30)
