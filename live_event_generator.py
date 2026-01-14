@@ -7,18 +7,12 @@ PLAYLIST_FILE = "playlist.m3u"
 OUTPUT_FILE = "live.m3u"
 TZ = 7  # WIB
 
-# =====================
-# CLEAN NAMA CHANNEL
-# =====================
 def clean(name):
     for w in ["HD","FHD","UHD","SD","ID","INDO","INDONESIA"]:
         name = re.sub(rf"\b{w}\b", "", name, flags=re.I)
     name = re.sub(r"[|\[\]\(\)_\-]+", " ", name)
     return re.sub(r"\s+", " ", name).strip()
 
-# =====================
-# LOAD PLAYLIST
-# =====================
 def load_playlist():
     mapping = {}
     with open(PLAYLIST_FILE, encoding="utf-8", errors="ignore") as f:
@@ -31,15 +25,9 @@ def load_playlist():
             mapping[name] = url
     return mapping
 
-# =====================
-# PARSE TIME EPG
-# =====================
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
 
-# =====================
-# MAIN
-# =====================
 def main():
     playlist = load_playlist()
     tree = etree.parse(EPG_FILE)
@@ -53,7 +41,6 @@ def main():
             try:
                 start = parse_time(p.get("start"))
                 stop = parse_time(p.get("stop"))
-
                 if not (start <= now <= stop):
                     continue
 
@@ -68,7 +55,6 @@ def main():
                     f'group-title="LIVE EVENT",LIVE | {title}\n'
                 )
                 f.write(playlist[channel] + "\n")
-
             except:
                 continue
 
