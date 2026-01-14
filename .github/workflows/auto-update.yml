@@ -1,4 +1,4 @@
-name: Auto Update EPG & Live Event
+name: Auto Update Soccer EPG & Live Event
 
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
 
@@ -25,5 +24,5 @@ jobs:
         git config user.name "github-actions"
         git config user.email "actions@github.com"
         git add epg.xml live.m3u
-        git diff --cached --quiet || git commit -m "Auto update EPG & Live Event"
+        git diff --cached --quiet || git commit -m "Auto update soccer EPG & Live Event"
         git push
