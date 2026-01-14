@@ -1,4 +1,3 @@
-import re
 from lxml import etree
 from datetime import datetime, timedelta
 
@@ -7,32 +6,24 @@ PLAYLIST_FILE = "playlist.m3u"
 OUTPUT_FILE = "live.m3u"
 TZ = 7  # WIB
 
-def clean(name):
-    for w in ["HD","FHD","UHD","SD","ID","INDO","INDONESIA"]:
-        name = re.sub(rf"\b{w}\b", "", name, flags=re.I)
-    name = re.sub(r"[|\[\]\(\)_\-]+", " ", name)
-    return re.sub(r"\s+", " ", name).strip()
-
-def load_playlist():
-    mapping = {}
+def load_playlist_urls():
+    urls = []
     with open(PLAYLIST_FILE, encoding="utf-8", errors="ignore") as f:
         lines = f.readlines()
-
     for i in range(len(lines)):
         if lines[i].startswith("#EXTINF"):
-            name = clean(lines[i].split(",")[-1])
-            url = lines[i+1].strip()
-            mapping[name] = url
-    return mapping
+            urls.append(lines[i+1].strip())
+    return urls
 
 def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
 
 def main():
-    playlist = load_playlist()
     tree = etree.parse(EPG_FILE)
     root = tree.getroot()
     now = datetime.utcnow() + timedelta(hours=TZ)
+
+    playlist_urls = load_playlist_urls()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -45,20 +36,19 @@ def main():
                     continue
 
                 title = p.findtext("title", "LIVE EVENT")
-                channel = clean(p.get("channel"))
 
-                if channel not in playlist:
-                    continue
+                # tampilkan event LIVE di SEMUA channel sport
+                for url in playlist_urls:
+                    f.write(
+                        f'#EXTINF:-1 group-title="LIVE EVENT",LIVE | {title}\n'
+                    )
+                    f.write(url + "\n")
 
-                f.write(
-                    f'#EXTINF:-1 tvg-id="{channel}" tvg-name="{channel}" '
-                    f'group-title="LIVE EVENT",LIVE | {title}\n'
-                )
-                f.write(playlist[channel] + "\n")
+                break  # cukup 1 pertandingan LIVE
             except:
                 continue
 
-    print("[DONE] live.m3u updated")
+    print("[OK] live.m3u generated")
 
 if __name__ == "__main__":
     main()
