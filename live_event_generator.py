@@ -5,9 +5,27 @@ import re
 EPG_FILE = "epg.xml"
 PLAYLIST_FILE = "playlist.m3u"
 OUTPUT_FILE = "live.m3u"
-
 TZ = 7  # WIB
-LIVE_LOGO = None  # isi URL logo LIVE kalau mau, atau None
+
+# =====================
+# PARSE WAKTU
+# =====================
+def parse_time(t):
+    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
+
+# =====================
+# LOAD ICON DARI EPG
+# =====================
+def load_epg_icons():
+    icons = {}
+    tree = etree.parse(EPG_FILE)
+    root = tree.getroot()
+    for ch in root.findall("channel"):
+        cid = ch.get("id")
+        icon = ch.find("icon")
+        if cid and icon is not None and icon.get("src"):
+            icons[cid] = icon.get("src")
+    return icons
 
 # =====================
 # LOAD PLAYLIST BLOK
@@ -15,28 +33,21 @@ LIVE_LOGO = None  # isi URL logo LIVE kalau mau, atau None
 def load_playlist_blocks():
     blocks = []
     with open(PLAYLIST_FILE, encoding="utf-8", errors="ignore") as f:
-        lines = [l.rstrip("\n") for l in f if l.strip()]
+        lines = [l.strip() for l in f if l.strip()]
 
     i = 0
     while i < len(lines):
         if lines[i].startswith("#EXTINF"):
-            extinf = lines[i]
-            url = lines[i + 1]
-            blocks.append((extinf, url))
+            blocks.append((lines[i], lines[i + 1]))
             i += 2
         else:
             i += 1
     return blocks
 
-def get_channel_name(extinf):
-    # ambil nama setelah koma terakhir
-    return extinf.split(",", 1)[-1].strip()
-
-# =====================
-# PARSE TIME
-# =====================
-def parse_time(t):
-    return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
+def clean_title(title):
+    title = re.sub(r"\(.*?\)", "", title)   # hapus (SEA GAMES dll)
+    title = re.sub(r"\s+", " ", title)
+    return title.strip()
 
 # =====================
 # MAIN
@@ -46,6 +57,7 @@ def main():
     root = tree.getroot()
     now = datetime.utcnow() + timedelta(hours=TZ)
 
+    epg_icons = load_epg_icons()
     playlist_blocks = load_playlist_blocks()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -58,40 +70,30 @@ def main():
                 if not (start <= now <= stop):
                     continue
 
-                match_title = p.findtext("title", "LIVE MATCH")
+                match_title = clean_title(p.findtext("title", "LIVE MATCH"))
+                channel_id = p.get("channel")
+                logo = epg_icons.get(channel_id, "")
 
                 for extinf, url in playlist_blocks:
-                    original_name = get_channel_name(extinf)
+                    base = extinf.split(",", 1)[0]
 
-                    # ganti nama channel (unik per channel)
-                    new_name = f"LIVE | {match_title} ({original_name})"
-
-                    new_extinf = extinf.split(",", 1)[0] + "," + new_name
-
-                    # ganti group
-                    if 'group-title="' in new_extinf:
-                        new_extinf = re.sub(
-                            r'group-title="[^"]+"',
-                            'group-title="LIVE EVENT"',
-                            new_extinf
-                        )
-
-                    # ganti logo kalau diset
-                    if LIVE_LOGO and 'tvg-logo="' in new_extinf:
-                        new_extinf = re.sub(
-                            r'tvg-logo="[^"]+"',
-                            f'tvg-logo="{LIVE_LOGO}"',
-                            new_extinf
-                        )
+                    new_extinf = (
+                        f'{base} '
+                        f'tvg-id="{channel_id}" '
+                        f'tvg-name="{channel_id}" '
+                        f'tvg-logo="{logo}" '
+                        f'group-title="LIVE EVENT",'
+                        f'{match_title}'
+                    )
 
                     f.write(new_extinf + "\n")
                     f.write(url + "\n")
 
-                break  # cukup 1 event LIVE
+                break  # hanya 1 pertandingan LIVE
             except:
                 continue
 
-    print("[DONE] live.m3u (unique channel names)")
+    print("[DONE] live.m3u (clean name + epg icon)")
 
 if __name__ == "__main__":
     main()
