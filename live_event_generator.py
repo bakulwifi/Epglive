@@ -6,9 +6,17 @@ EPG_FILE = "epg.xml"
 OUTPUT_FILE = "live.m3u"
 
 TZ = 7  # WIB
+MAX_DAYS = 2
+LIVE_OFFSET_MINUTES = 5
+MAX_CHANNEL_PER_MATCH = 3
 
+JADWAL_URL = "https://bwifi.my.id/hls/video.m3u8"
+LIVE_URL_DEFAULT = "https://bwifi.my.id/hls/video.m3u8"
+
+PRIORITY_KEYWORDS = ["bein", "tnt", "fubo"]
+
+# =====================
 def parse_time_any(t):
-    # support banyak format
     try:
         return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
     except:
@@ -24,38 +32,83 @@ def clean_title(t):
     t = re.sub(r"\s+", " ", t)
     return t.strip()
 
+def force_attr(extinf, attr, value):
+    if f'{attr}="' in extinf:
+        return re.sub(rf'{attr}="[^"]*"', f'{attr}="{value}"', extinf)
+    return f'#EXTINF:-1 {attr}="{value}",'
+
+# =====================
+def load_epg_channels():
+    tree = etree.parse(EPG_FILE)
+    data = {}
+    for ch in tree.getroot().findall("channel"):
+        cid = ch.get("id")
+        icon = ch.find("icon")
+        if cid and icon is not None and icon.get("src"):
+            data[cid] = icon.get("src")
+    return data
+
+def channel_priority(cid):
+    c = cid.lower()
+    for i,k in enumerate(PRIORITY_KEYWORDS):
+        if k in c:
+            return i
+    return 99
+
+# =====================
 def main():
+    now = datetime.utcnow() + timedelta(hours=TZ)
+    limit = now + timedelta(days=MAX_DAYS)
+
     tree = etree.parse(EPG_FILE)
     root = tree.getroot()
 
-    now = datetime.utcnow() + timedelta(hours=TZ)
-    limit = now + timedelta(days=2)
+    epg_icons = load_epg_channels()
+    events = {}
 
-    count = 0
+    # kumpulkan event
+    for p in root.findall("programme"):
+        start = parse_time_any(p.get("start",""))
+        stop = parse_time_any(p.get("stop",""))
+        if not start or not stop:
+            continue
+        if start > limit or stop < now:
+            continue
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        title = clean_title(p.findtext("title"))
+        if not title:
+            continue
+
+        cid = p.get("channel")
+        if title not in events:
+            events[title] = {"start":start,"stop":stop,"channels":[]}
+        if cid and cid in epg_icons:
+            events[title]["channels"].append(cid)
+
+    with open(OUTPUT_FILE,"w",encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for p in root.findall("programme"):
-            start = parse_time_any(p.get("start",""))
-            stop = parse_time_any(p.get("stop",""))
+        for title,data in events.items():
+            live_time = data["start"] - timedelta(minutes=LIVE_OFFSET_MINUTES)
+            is_live = live_time <= now <= data["stop"]
 
-            if not start or not stop:
-                continue
+            group = "LIVE EVENT" if is_live else "JADWAL EVENT"
+            base_url = LIVE_URL_DEFAULT if is_live else JADWAL_URL
 
-            if start > limit or stop < now:
-                continue
+            channels = sorted(
+                set(data["channels"]),
+                key=channel_priority
+            )[:MAX_CHANNEL_PER_MATCH]
 
-            title = clean_title(p.findtext("title"))
-            if not title:
-                continue
+            for cid in channels:
+                logo = epg_icons.get(cid,"")
+                name = title if is_live else f"{title} ({data['start'].strftime('%H:%M')})"
+                name = f"{name} ({cid})"
 
-            # TULIS DUMMY AGAR KELIHATAN
-            f.write(f"#EXTINF:-1 group-title=\"DEBUG\",{title}\n")
-            f.write("https://bwifi.my.id/hls/video.m3u8\n")
-            count += 1
+                f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
+                f.write(base_url + "\n")
 
-    print(f"[DEBUG] total event ditulis: {count}")
+    print("[OK] live.m3u generated (STABLE MODE)")
 
-if __name__ == "__main__":
+if __name__=="__main__":
     main()
