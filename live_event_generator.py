@@ -14,7 +14,7 @@ def parse_time(t):
     return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
 
 # =====================
-# LOAD ICON DARI EPG
+# AMBIL ICON DARI EPG
 # =====================
 def load_epg_icons():
     icons = {}
@@ -28,12 +28,12 @@ def load_epg_icons():
     return icons
 
 # =====================
-# LOAD PLAYLIST BLOK
+# LOAD PLAYLIST BLOK ASLI
 # =====================
 def load_playlist_blocks():
     blocks = []
     with open(PLAYLIST_FILE, encoding="utf-8", errors="ignore") as f:
-        lines = [l.strip() for l in f if l.strip()]
+        lines = [l.rstrip("\n") for l in f if l.strip()]
 
     i = 0
     while i < len(lines):
@@ -44,10 +44,18 @@ def load_playlist_blocks():
             i += 1
     return blocks
 
-def clean_title(title):
-    title = re.sub(r"\(.*?\)", "", title)   # hapus (SEA GAMES dll)
-    title = re.sub(r"\s+", " ", title)
-    return title.strip()
+# =====================
+# EDIT EXTINF DENGAN AMAN
+# =====================
+def replace_attr(extinf, attr, value):
+    if f'{attr}="' in extinf:
+        return re.sub(rf'{attr}="[^"]*"', f'{attr}="{value}"', extinf)
+    return extinf
+
+def replace_name(extinf, new_name):
+    if "," in extinf:
+        return extinf.split(",", 1)[0] + "," + new_name
+    return extinf
 
 # =====================
 # MAIN
@@ -70,30 +78,31 @@ def main():
                 if not (start <= now <= stop):
                     continue
 
-                match_title = clean_title(p.findtext("title", "LIVE MATCH"))
+                match_title = re.sub(r"\(.*?\)", "", p.findtext("title", "LIVE")).strip()
                 channel_id = p.get("channel")
                 logo = epg_icons.get(channel_id, "")
 
                 for extinf, url in playlist_blocks:
-                    base = extinf.split(",", 1)[0]
+                    new_extinf = extinf
 
-                    new_extinf = (
-                        f'{base} '
-                        f'tvg-id="{channel_id}" '
-                        f'tvg-name="{channel_id}" '
-                        f'tvg-logo="{logo}" '
-                        f'group-title="LIVE EVENT",'
-                        f'{match_title}'
-                    )
+                    # ganti nama channel (AMAN)
+                    new_extinf = replace_name(new_extinf, match_title)
+
+                    # ganti group-title
+                    new_extinf = replace_attr(new_extinf, "group-title", "LIVE EVENT")
+
+                    # ganti logo dari EPG
+                    if logo:
+                        new_extinf = replace_attr(new_extinf, "tvg-logo", logo)
 
                     f.write(new_extinf + "\n")
                     f.write(url + "\n")
 
-                break  # hanya 1 pertandingan LIVE
+                break  # hanya 1 event LIVE
             except:
                 continue
 
-    print("[DONE] live.m3u (clean name + epg icon)")
+    print("[DONE] live.m3u FIXED (clean & stable)")
 
 if __name__ == "__main__":
     main()
