@@ -1,28 +1,32 @@
-import requests
-import gzip
+import requests, gzip
 from lxml import etree
 
 EPG_OUTPUT = "epg.xml"
 
 EPG_SOURCES = [
-    # Open-EPG Indonesia
     "https://www.open-epg.com/files/indonesia2.xml.gz",
-
-    # StarHub TV EPG
     "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml",
-
-    # EPG.pw publik
     "https://epg.pw/xmltv/epg_ID.xml",
-    "https://epg.pw/xmltv/epg.xml",
-    "https://epg.pw/xmltv/epg.xml.gz",
-
-    # EPGShare gabungan
     "http://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+]
+
+# kata kunci sepakbola
+KEYWORDS = [
+    " vs ", " v ",
+    "liga", "league",
+    "premier",
+    "champions", "ucl", "uefa",
+    "world cup", "copa",
+    "afc", "fifa"
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-def load_epg(url):
+def is_soccer(title: str) -> bool:
+    t = title.lower()
+    return any(k in t for k in KEYWORDS)
+
+def load_xml(url):
     r = requests.get(url, headers=HEADERS, timeout=40)
     r.raise_for_status()
     data = r.content
@@ -31,25 +35,30 @@ def load_epg(url):
     return etree.fromstring(data)
 
 def main():
-    tv = etree.Element("tv", generator_info_name="Multi Source Sports EPG")
+    tv = etree.Element("tv", generator_info_name="Soccer Only EPG")
     channel_ids = set()
 
     for url in EPG_SOURCES:
         try:
-            root = load_epg(url)
+            root = load_xml(url)
 
-            # channel
-            for ch in root.findall("channel"):
-                cid = ch.get("id")
-                if cid and cid not in channel_ids:
-                    channel_ids.add(cid)
-                    tv.append(ch)
-
-            # programme
             for pr in root.findall("programme"):
+                title_el = pr.find("title")
+                if title_el is None or not title_el.text:
+                    continue
+
+                if not is_soccer(title_el.text):
+                    continue
+
+                ch_id = pr.get("channel")
+                if ch_id and ch_id not in channel_ids:
+                    channel_ids.add(ch_id)
+                    ch = etree.SubElement(tv, "channel", id=ch_id)
+                    etree.SubElement(ch, "display-name").text = ch_id
+
                 tv.append(pr)
 
-            print(f"[OK] {url}")
+            print(f"[OK] Soccer filtered from {url}")
         except Exception as e:
             print(f"[SKIP] {url} -> {e}")
 
@@ -61,7 +70,7 @@ def main():
             encoding="UTF-8"
         ))
 
-    print("[DONE] epg.xml updated")
+    print("[DONE] epg.xml (soccer only)")
 
 if __name__ == "__main__":
     main()
