@@ -1,6 +1,7 @@
 name: Auto Update Live Playlist
 
 on:
+  workflow_dispatch:   # ⬅️ INI PENTING (manual run)
   schedule:
     - cron: "0 */3 * * *"
   push:
