@@ -1,12 +1,16 @@
 import xml.etree.ElementTree as ET
-from datetime import datetime
-import sys
+import urllib.request
+import io
 
-# ===============================
+# =============================
 # CONFIG
-# ===============================
+# =============================
 
-SOURCE_EPG = "source_epg.xml"   # file EPG mentah (gabungan)
+EPG_URLS = [
+    "https://www.open-epg.com/files/indonesia2.xml",
+    "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml"
+]
+
 OUTPUT_EPG = "epg.xml"
 
 SOCCER_KEYWORDS = [
@@ -16,88 +20,78 @@ SOCCER_KEYWORDS = [
     "serie", "champions", "qualifier"
 ]
 
-# ===============================
+# =============================
 # HELPERS
-# ===============================
+# =============================
 
 def is_soccer(title: str) -> bool:
     t = title.lower()
     return any(k in t for k in SOCCER_KEYWORDS)
 
-def clean_text(text):
+def clean(text):
     return text.strip() if text else ""
 
-# ===============================
+def load_xml_from_url(url):
+    with urllib.request.urlopen(url, timeout=60) as r:
+        return ET.parse(io.BytesIO(r.read())).getroot()
+
+# =============================
 # MAIN
-# ===============================
+# =============================
 
 def main():
-    print("=== RUNNING NEW SOCCER-ONLY MINIMAL EPG ===")
+    print("=== RUNNING SOCCER-ONLY EPG FROM URL ===")
 
-    try:
-        tree = ET.parse(SOURCE_EPG)
-    except Exception as e:
-        print(f"[ERROR] Cannot open {SOURCE_EPG}: {e}")
-        sys.exit(1)
+    tv_out = ET.Element("tv")
+    channel_done = set()
+    total_programme = 0
 
-    root = tree.getroot()
-
-    # Output root
-    tv = ET.Element("tv")
-
-    # Map channel id -> display-name & icon
-    channel_map = {}
-
-    for ch in root.findall("channel"):
-        display = ch.findtext("display-name")
-        icon = ch.find("icon")
-        icon_src = icon.get("src") if icon is not None else ""
-
-        if display:
-            channel_map[ch.get("id")] = {
-                "name": clean_text(display),
-                "icon": clean_text(icon_src)
-            }
-
-    # Add channels (minimal)
-    for ch_id, data in channel_map.items():
-        ch_el = ET.SubElement(tv, "channel")
-        dn = ET.SubElement(ch_el, "display-name")
-        dn.text = data["name"]
-
-        if data["icon"]:
-            ic = ET.SubElement(ch_el, "icon")
-            ic.set("src", data["icon"])
-
-    # Add programmes
-    count = 0
-
-    for p in root.findall("programme"):
-        title = clean_text(p.findtext("title"))
-        if not title:
+    for url in EPG_URLS:
+        print(f"[FETCH] {url}")
+        try:
+            root = load_xml_from_url(url)
+        except Exception as e:
+            print(f"[SKIP] Failed load {url}: {e}")
             continue
 
-        if not is_soccer(title):
-            continue
+        channel_map = {}
 
-        prog = ET.SubElement(tv, "programme")
-        prog.set("start", p.get("start", ""))
-        prog.set("stop", p.get("stop", ""))
+        for ch in root.findall("channel"):
+            cid = ch.get("id")
+            name = clean(ch.findtext("display-name"))
+            icon = ch.find("icon")
+            icon_src = icon.get("src") if icon is not None else ""
 
-        t = ET.SubElement(prog, "title")
-        t.text = title
+            if cid and name:
+                channel_map[cid] = (name, icon_src)
 
-        count += 1
+                if cid not in channel_done:
+                    ch_el = ET.SubElement(tv_out, "channel")
+                    ET.SubElement(ch_el, "display-name").text = name
+                    if icon_src:
+                        ET.SubElement(ch_el, "icon").set("src", icon_src)
+                    channel_done.add(cid)
 
-    # Write output
-    ET.ElementTree(tv).write(
+        for p in root.findall("programme"):
+            title = clean(p.findtext("title"))
+            if not title or not is_soccer(title):
+                continue
+
+            prog = ET.SubElement(tv_out, "programme")
+            prog.set("start", p.get("start", ""))
+            prog.set("stop", p.get("stop", ""))
+
+            ET.SubElement(prog, "title").text = title
+            total_programme += 1
+
+    ET.ElementTree(tv_out).write(
         OUTPUT_EPG,
         encoding="utf-8",
         xml_declaration=True
     )
 
-    print(f"[OK] Soccer-only EPG generated: {count} programmes")
+    print(f"[OK] Soccer programmes: {total_programme}")
 
-# ===============================
+# =============================
 if __name__ == "__main__":
     main()
