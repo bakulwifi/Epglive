@@ -1,160 +1,136 @@
-import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
 import re
+import requests
+import xml.etree.ElementTree as ET
+from io import BytesIO
+from datetime import datetime
 
-SOURCE_EPG = "https://raw.githubusercontent.com/bakulwifi/Epglive/refs/heads/main/epg.xml"
+# ================= CONFIG =================
+EPG_URL = "https://raw.githubusercontent.com/bakulwifi/Epglive/refs/heads/main/epg.xml"
 SOURCE_M3U = "playlist/playlist.m3u"
-OUTPUT_M3U = "../live.m3u"
+OUTPUT_M3U = "live.m3u"
+GROUP_TITLE = "LIVE EVENT"
+TIMEZONE = "WIB"
+# ==========================================
 
-PLACEHOLDER_URL = "https://bwifi.my.id/hls/video.m3u8"
-TIMEZONE = timezone.utc
-LIVE_OFFSET_MINUTES = 5
 
-# =========================
-# UTIL
-# =========================
-def normalize_name(name):
+def normalize_name(name: str) -> str:
     name = name.lower()
-    name = re.sub(r"(hd|fhd|uhd|4k)", "", name)
-    name = re.sub(r"[^a-z0-9 ]", " ", name)
-    words = name.split()
-    return " ".join(words[:3])
+    name = re.sub(r'[^a-z0-9 ]', '', name)
+    parts = name.split()
+    return " ".join(parts[:2]) if len(parts) >= 2 else name
 
-def parse_time(t):
-    return datetime.strptime(t.strip(), "%Y%m%d%H%M%S %z")
 
-def is_soccer(title):
-    keywords = [
-        "liga", "league", "vs", "v ", "uefa", "ucl", "uel",
-        "afc", "bundesliga", "laliga", "serie", "premier",
-        "qual", "world cup", "asian cup"
-    ]
-    t = title.lower()
-    return any(k in t for k in keywords)
-
-# =========================
-# LOAD PLAYLIST BLOK UTUH
-# =========================
-def load_playlist_blocks():
-    with open(SOURCE_M3U, "r", encoding="utf-8", errors="ignore") as f:
-        lines = f.readlines()
-
-    blocks = []
-    current = []
-
-    for line in lines:
-        if line.startswith("#EXTINF"):
-            if current:
-                blocks.append(current)
-            current = [line]
-        else:
-            if current:
-                current.append(line)
-
-    if current:
-        blocks.append(current)
-
-    results = []
-    for block in blocks:
-        info = block[0]
-        url = block[-1].strip()
-
-        name_match = re.search(r',(.+)$', info)
-        name = name_match.group(1).strip() if name_match else "UNKNOWN"
-
-        logo_match = re.search(r'tvg-logo="([^"]*)"', info)
-        logo = logo_match.group(1) if logo_match else ""
-
-        results.append({
-            "raw": block,
-            "name": name,
-            "norm": normalize_name(name),
-            "logo": logo,
-            "url": url
-        })
-
-    return results
-
-# =========================
-# LOAD EPG (SPORTS ONLY)
-# =========================
-def load_epg():
-    tree = ET.parse(EPG_FILE)
+def load_epg_events():
+    r = requests.get(EPG_URL, timeout=30)
+    r.raise_for_status()
+    tree = ET.parse(BytesIO(r.content))
     root = tree.getroot()
 
-    programmes = []
+    events = []
     for p in root.findall("programme"):
         title_el = p.find("title")
         if title_el is None:
             continue
 
+        channel = p.attrib.get("channel", "").strip()
+        start = p.attrib.get("start", "").strip()
         title = title_el.text.strip()
-        if not is_soccer(title):
+
+        if not channel or not start or not title:
             continue
 
-        start = parse_time(p.attrib["start"])
-        stop = parse_time(p.attrib["stop"])
-        channel = p.attrib.get("channel", "")
+        try:
+            start_dt = datetime.strptime(start[:14], "%Y%m%d%H%M%S")
+            start_time = start_dt.strftime("%H:%M")
+        except Exception:
+            continue
 
-        icon = ""
-        ch_el = root.find(f"./channel[@id='{channel}']/icon")
-        if ch_el is not None:
-            icon = ch_el.attrib.get("src", "")
-
-        programmes.append({
-            "title": title,
-            "start": start,
-            "stop": stop,
+        events.append({
             "channel": channel,
-            "norm": normalize_name(channel),
-            "logo": icon
+            "channel_key": normalize_name(channel),
+            "title": title,
+            "time": start_time
         })
 
-    return programmes
+    return events
 
-# =========================
-# MAIN
-# =========================
+
+def load_playlist_blocks():
+    with open(SOURCE_M3U, "r", encoding="utf-8", errors="ignore") as f:
+        lines = f.read().splitlines()
+
+    blocks = []
+    block = []
+
+    for line in lines:
+        if line.startswith("#EXTINF"):
+            if block:
+                blocks.append(block)
+            block = [line]
+        elif block:
+            block.append(line)
+
+    if block:
+        blocks.append(block)
+
+    return blocks
+
+
+def extract_channel_from_extinf(extinf: str) -> str:
+    if "," in extinf:
+        return extinf.split(",")[-1].strip()
+    return ""
+
+
+def extract_url(block):
+    for l in block:
+        if l.startswith("http"):
+            return l.strip()
+    return ""
+
+
 def main():
-    now = datetime.now(TIMEZONE)
-
+    epg_events = load_epg_events()
     playlist_blocks = load_playlist_blocks()
-    epg_events = load_epg()
 
-    used_events = set()
-    output = ["#EXTM3U\n"]
+    channel_map = {}
+    for block in playlist_blocks:
+        extinf = block[0]
+        ch_name = extract_channel_from_extinf(extinf)
+        if not ch_name:
+            continue
+        key = normalize_name(ch_name)
+        channel_map.setdefault(key, []).append(block)
 
-    for event in epg_events:
-        is_live = now >= (event["start"] - timedelta(minutes=LIVE_OFFSET_MINUTES))
-        group = "LIVE EVENT" if is_live else "JADWAL EVENT"
-        event_time = event["start"].astimezone(TIMEZONE).strftime("%H:%M WIB")
+    output = ["#EXTM3U"]
+    seen = set()
 
-        for block in playlist_blocks:
-            if event["norm"] not in block["norm"]:
+    for ev in epg_events:
+        key = ev["channel_key"]
+        if key not in channel_map:
+            continue
+
+        for block in channel_map[key]:
+            url = extract_url(block)
+            if not url:
                 continue
 
-            stream_url = block["url"] if is_live else PLACEHOLDER_URL
-
-            event_key = f"{event['title']}|{event_time}|{block['name']}|{stream_url}"
-            if event_key in used_events:
+            unique_key = f"{ev['title']}|{ev['time']}|{ev['channel']}|{url}"
+            if unique_key in seen:
                 continue
-            used_events.add(event_key)
-
-            display_name = f"{event['title']} ({event_time}) - {block['name']}"
-            logo = event["logo"] or block["logo"]
+            seen.add(unique_key)
 
             extinf = (
-                f'#EXTINF:-1 tvg-logo="{logo}" '
-                f'group-title="{group}",{display_name}\n'
+                f'#EXTINF:-1 group-title="{GROUP_TITLE}",'
+                f'{ev["title"]} ({ev["time"]} {TIMEZONE}) - {extract_channel_from_extinf(block[0])}'
             )
 
             output.append(extinf)
-            output.append(stream_url + "\n")
+            output.append(url)
 
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
-        f.writelines(output)
+        f.write("\n".join(output))
 
-    print("✔ live.m3u generated successfully")
 
 if __name__ == "__main__":
     main()
