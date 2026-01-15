@@ -1,31 +1,35 @@
-name: Update Playlist (Soccer Only)
+name: Auto Update Live Playlist
 
 on:
   schedule:
     - cron: "0 */3 * * *"
   push:
     paths:
+      - "playlist/**"
       - "epg.xml"
-      - "playlist/playlist.m3u"
-  workflow_dispatch:
 
 jobs:
-  playlist:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.x"
 
-      - run: pip install lxml
+      - name: Install requests
+        run: pip install requests
 
-      - run: python playlist/playlist_generator.py
+      - name: Generate playlist
+        run: python playlist/playlist_generator.py
 
-      - run: |
-          git config user.name "github-actions"
+      - name: Commit live.m3u
+        run: |
+          git config user.name "actions-user"
           git config user.email "actions@github.com"
           git add live.m3u
-          git diff --cached --quiet || git commit -m "Update live.m3u (Soccer)"
+          git commit -m "Auto update live.m3u" || echo "No changes"
           git push
