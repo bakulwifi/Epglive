@@ -3,112 +3,128 @@ from datetime import datetime, timedelta
 import re
 
 EPG_FILE = "epg.xml"
+PLAYLIST_FILE = "playlist.m3u"
 OUTPUT_FILE = "live.m3u"
 
-TZ = 7  # WIB
-MAX_DAYS = 2
+TZ = 7
 LIVE_OFFSET_MINUTES = 5
-MAX_CHANNEL_PER_MATCH = 3
+MAX_DAYS = 2
 
 JADWAL_URL = "https://bwifi.my.id/hls/video.m3u8"
-LIVE_URL_DEFAULT = "https://bwifi.my.id/hls/video.m3u8"
 
-PRIORITY_KEYWORDS = ["bein", "tnt", "fubo"]
-
-# =====================
-def parse_time_any(t):
-    try:
-        return datetime.strptime(t[:14], "%Y%m%d%H%M%S") + timedelta(hours=TZ)
-    except:
+# =========================
+def parse_time(t):
+    for fmt in ("%Y%m%d%H%M%S", "%Y%m%dT%H%M%S"):
         try:
-            return datetime.strptime(t[:15], "%Y%m%dT%H%M%S") + timedelta(hours=TZ)
+            return datetime.strptime(t[:len(fmt)], fmt) + timedelta(hours=TZ)
         except:
-            return None
+            pass
+    return None
 
-def clean_title(t):
-    if not t:
-        return None
-    t = re.sub(r"\(.*?\)", "", t)
-    t = re.sub(r"\s+", " ", t)
-    return t.strip()
+def clean_text(s):
+    if not s:
+        return ""
+    s = s.lower()
+    s = re.sub(r"(hd|fhd|uhd|sd)", "", s)
+    s = re.sub(r"[^a-z0-9 ]+", " ", s)
+    return " ".join(s.split())
 
-def force_attr(extinf, attr, value):
-    if f'{attr}="' in extinf:
-        return re.sub(rf'{attr}="[^"]*"', f'{attr}="{value}"', extinf)
-    return f'#EXTINF:-1 {attr}="{value}",'
+def first_words(s, n=3):
+    return " ".join(s.split()[:n])
 
-# =====================
-def load_epg_channels():
-    tree = etree.parse(EPG_FILE)
+# =========================
+def load_epg_channels(root):
     data = {}
-    for ch in tree.getroot().findall("channel"):
+    for ch in root.findall("channel"):
         cid = ch.get("id")
         icon = ch.find("icon")
-        if cid and icon is not None and icon.get("src"):
-            data[cid] = icon.get("src")
+        name = clean_text(cid)
+        logo = icon.get("src") if icon is not None else ""
+        data[cid] = {
+            "name": name,
+            "short": first_words(name),
+            "logo": logo
+        }
     return data
 
-def channel_priority(cid):
-    c = cid.lower()
-    for i,k in enumerate(PRIORITY_KEYWORDS):
-        if k in c:
-            return i
-    return 99
+# =========================
+def load_playlist_blocks():
+    blocks = []
+    with open(PLAYLIST_FILE, encoding="utf-8", errors="ignore") as f:
+        lines = [l.strip() for l in f if l.strip()]
+    for i in range(len(lines)):
+        if lines[i].startswith("#EXTINF"):
+            name = clean_text(lines[i].split(",")[-1])
+            blocks.append({
+                "name": name,
+                "short": first_words(name),
+                "extinf": lines[i],
+                "url": lines[i + 1]
+            })
+    return blocks
 
-# =====================
+def match_playlist(epg_short, playlist_blocks):
+    for b in playlist_blocks:
+        if any(w in b["short"] for w in epg_short.split()):
+            return b
+    return playlist_blocks[0] if playlist_blocks else None
+
+# =========================
 def main():
-    now = datetime.utcnow() + timedelta(hours=TZ)
-    limit = now + timedelta(days=MAX_DAYS)
-
     tree = etree.parse(EPG_FILE)
     root = tree.getroot()
 
-    epg_icons = load_epg_channels()
-    events = {}
+    epg_channels = load_epg_channels(root)
+    playlist_blocks = load_playlist_blocks()
 
-    # kumpulkan event
-    for p in root.findall("programme"):
-        start = parse_time_any(p.get("start",""))
-        stop = parse_time_any(p.get("stop",""))
-        if not start or not stop:
-            continue
-        if start > limit or stop < now:
-            continue
+    now = datetime.utcnow() + timedelta(hours=TZ)
+    limit = now + timedelta(days=MAX_DAYS)
 
-        title = clean_title(p.findtext("title"))
-        if not title:
-            continue
-
-        cid = p.get("channel")
-        if title not in events:
-            events[title] = {"start":start,"stop":stop,"channels":[]}
-        if cid and cid in epg_icons:
-            events[title]["channels"].append(cid)
-
-    with open(OUTPUT_FILE,"w",encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for title,data in events.items():
-            live_time = data["start"] - timedelta(minutes=LIVE_OFFSET_MINUTES)
-            is_live = live_time <= now <= data["stop"]
+        for p in root.findall("programme"):
+            start = parse_time(p.get("start", ""))
+            stop = parse_time(p.get("stop", ""))
+            if not start or not stop:
+                continue
+            if start > limit or stop < now:
+                continue
 
-            group = "LIVE EVENT" if is_live else "JADWAL EVENT"
-            base_url = LIVE_URL_DEFAULT if is_live else JADWAL_URL
+            title = p.findtext("title")
+            if not title:
+                continue
+            title = re.sub(r"\(.*?\)", "", title).strip()
 
-            channels = sorted(
-                set(data["channels"]),
-                key=channel_priority
-            )[:MAX_CHANNEL_PER_MATCH]
+            cid = p.get("channel", "")
+            ch = epg_channels.get(cid)
+            if not ch:
+                continue
 
-            for cid in channels:
-                logo = epg_icons.get(cid,"")
-                name = title if is_live else f"{title} ({data['start'].strftime('%H:%M')})"
-                name = f"{name} ({cid})"
+            is_live = (start - timedelta(minutes=LIVE_OFFSET_MINUTES)) <= now <= stop
 
-                f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
-                f.write(base_url + "\n")
+            name = f"{title} ({start.strftime('%H:%M')}) {ch['short'].title()}"
+            logo = ch["logo"]
 
-    print("[OK] live.m3u generated (STABLE MODE)")
+            if is_live:
+                block = match_playlist(ch["short"], playlist_blocks)
+                if not block:
+                    continue
+                extinf = block["extinf"]
+                url = block["url"]
+                group = "LIVE EVENT"
+            else:
+                extinf = "#EXTINF:-1"
+                url = JADWAL_URL
+                group = "JADWAL EVENT"
 
-if __name__=="__main__":
+            f.write(
+                f'#EXTINF:-1 tvg-id="" tvg-name="{name}" '
+                f'tvg-logo="{logo}" group-title="{group}",{name}\n'
+            )
+            f.write(url + "\n")
+
+    print("[OK] live.m3u generated")
+
+if __name__ == "__main__":
     main()
