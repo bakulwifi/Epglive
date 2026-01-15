@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 import re
 
-EPG_FILE = "https://raw.githubusercontent.com/bakulwifi/Epglive/refs/heads/main/epg.xml"
+SOURCE_EPG = "https://raw.githubusercontent.com/bakulwifi/Epglive/refs/heads/main/epg.xml"
 SOURCE_M3U = "playlist/playlist.m3u"
 OUTPUT_M3U = "../live.m3u"
 
