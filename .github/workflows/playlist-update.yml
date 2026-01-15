@@ -1,8 +1,11 @@
-name: Update Playlist
+name: Update Playlist (Soccer Only)
 
 on:
+  schedule:
+    - cron: "0 */3 * * *"
   push:
     paths:
+      - "epg.xml"
       - "playlist/playlist.m3u"
   workflow_dispatch:
 
@@ -16,11 +19,13 @@ jobs:
         with:
           python-version: "3.11"
 
+      - run: pip install lxml
+
       - run: python playlist/playlist_generator.py
 
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add live.m3u
-          git diff --cached --quiet || git commit -m "Update live.m3u"
+          git diff --cached --quiet || git commit -m "Update live.m3u (Soccer)"
           git push
