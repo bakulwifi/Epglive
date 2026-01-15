@@ -3,7 +3,7 @@ from datetime import datetime, timedelta, timezone
 import re
 
 EPG_FILE = "../epg.xml"
-SOURCE_M3U = "playlist.m3u"
+SOURCE_M3U = "playlist/playlist.m3u"
 OUTPUT_M3U = "../live.m3u"
 
 PLACEHOLDER_URL = "https://bwifi.my.id/hls/video.m3u8"
