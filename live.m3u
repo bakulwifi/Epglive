@@ -725,10 +725,35 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",FS MMA: Kabesa Vs Ekson II (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Garcia Vs Morales (15:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Garcia Vs Morales (15:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Garcia Vs Morales (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Karate 1 Premiere League (16:30 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",Karate 1 Premiere League (16:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Karate 1 Premiere League (16:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",BRI Super League 2025/26 (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",BRI Super League 2025/26 (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",BRI Super League 2025/26 (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",PROLIGA 2026 (LIVE) (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -756,6 +781,9 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",FIVB CLUB WORLD CHAMPIONSHIP (01:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",PROLIGA 2026 (LIVE) (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",UEFA Europa League (L) (00:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1268,6 +1296,24 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title="LIVE EVENT",Bundesliga (12:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
+#EXTINF:-1 group-title="LIVE EVENT",Liga 2 (16:00 WIB) - SPORTSTARS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+
+
+#EXTINF:-1 group-title="LIVE EVENT",Liga 2 (16:00 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",Liga 2 (16:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
 #EXTINF:-1 group-title="LIVE EVENT",Liga 2 (22:00 WIB) - SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -1663,6 +1709,32 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",A-League Men: NEW Vs WEL (13:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: ADL Vs MVC (15:00 WIB) - SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: ADL Vs MVC (15:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: ADL Vs MVC (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: MCY Vs AKL (15:25 WIB) - SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: MCY Vs AKL (15:25 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",ALM Mini Match: MCY Vs AKL (15:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",A-League Men: ADL Vs MVC (08:45 WIB) - SPOTV 2 V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -1768,6 +1840,27 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",A-League Men: MAC Vs MCY (L) (15:30 WIB) - SPOTV 2 V+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",A-League Men: MAC Vs MCY (L) (15:30 WIB) - SPOTV 2 PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",A-League Men: MAC Vs MCY (L) (15:30 WIB) - SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT",A-League Men: CCM Vs MAC (13:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
@@ -1784,6 +1877,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE EVENT",Bundesliga 2025/26: FC ST Pauli vs Hamburger SV (02:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",A-League Men: MAC Vs MCY (15:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",A-League Men: MAC Vs MCY (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",LIGA DANGDUT 2021 - EP 29 (01:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1831,6 +1930,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",NFL 2025/26 Division Round: San Francisco 49ers vs Seattle Seahawks (09:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",The Emirates FA Cup 2025/26 R3: Macclesfield vs Crystal Palace (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",ICC U19 Men's Cricket World Cup 2026 (09:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1838,6 +1940,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",ICC U19 Men's Cricket World Cup 2026 (09:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",ICC U19 Men's Cricket World Cup 2026 (Live) (14:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",ICC U19 Men's Cricket World Cup 2026 M23: Sri Lanka vs Australia (Live) (14:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1885,6 +1990,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",25/26 A-League Men Round 14 Newcastle Jets FC vs Wellington Phoenix (13:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",2025/26 ALM Mini Match Rd 13 Adelaide United vs Melbourne Victory (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",2025/26 ALM Mini Match Rd 13 Melbourne City FC vs Auckland FC (15:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",E1 World Championship Rd 1 Jeddah GP 2026 (Live) (15:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",2025 MotoGP Rookies Cup Le Mans (22:05 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1910,6 +2024,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",2025/26 ALM Mini Match Rd 13 Perth Glory vs Brisbane Roar FC (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",25/26 A-League Men Round 14 Macarthur FC vs Melbourne City FC (Live) (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Australian Open Classic: 2004 Men's Final Safin v Federer (23:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2095,6 +2212,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Sergio Martinez vs. Matthew Macklin (12:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Danny Garcia vs. Erik Morales (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Karate 1 Premier League (16:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",Champions Cup Gloucester v Toulon (22:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -2150,6 +2273,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Premiership Rugby Gloucester v Bath (13:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Premier Sports Extra (15:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",One Cup: A Thousand Stories (S1) - EP 3 (20:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
