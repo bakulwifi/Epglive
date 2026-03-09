@@ -290,6 +290,24 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: NEW Vs MUN (20:30 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: NEW Vs MUN (20:30 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: NEW Vs MUN (20:30 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT",LaLiga 2025/26: Villarreal vs Elche (19:55 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -488,6 +506,60 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV HL 2025/26 : WOL Vs LIV (22:15 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV HL 2025/26 : WOL Vs LIV (22:15 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV HL 2025/26 : WOL Vs LIV (22:15 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Goals Galore 2024/25 (22:45 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Goals Galore 2024/25 (22:45 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Goals Galore 2024/25 (22:45 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Archive: RMA Vs MLL (23:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Archive: RMA Vs MLL (23:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Archive: RMA Vs MLL (23:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT",Supercar Championship (23:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -621,6 +693,28 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE EVENT",FS MMA: Thompson Vs Peterson (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Walker Vs Arreola (21:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Walker Vs Arreola (21:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Walker Vs Arreola (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Mikixi Vs Kayambala (23:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Mikixi Vs Kayambala (23:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Mikixi Vs Kayambala (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",PROLIGA 2026 (20:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -789,6 +883,36 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE EVENT",Bundesliga: HSV Vs LEV (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Asian Cup 2026: VIE Vs CHN (20:30 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Asian Cup 2026: VIE Vs CHN (20:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Asian Cup 2026: VIE Vs CHN (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Sportacular Match: KSA Vs IDN (22:30 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",Sportacular Match: KSA Vs IDN (22:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Sportacular Match: KSA Vs IDN (22:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Championship League Two (20:00 WIB) - SPORTSTARS 2 HD
@@ -1350,6 +1474,26 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title="LIVE EVENT",Padel Hexagon Cup 2026 (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",V-League 2025-2026: Women (20:30 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",V-League 2025-2026: Women (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",V-League 2025-2026: Men (22:30 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",V-League 2025-2026: Men (22:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",25/26 Roshn Saudi League (17:30 WIB) - SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1498,6 +1642,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",Zuffa Boxing 2026 Zuffa 04: Opetaia vs Glanton (17:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",The Emirates FA Cup 2025/26 R5: Leeds United AFC vs Norwich City (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (Live) (20:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1511,6 +1658,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 HLs M55: Final - India vs New Zealand HLs (22:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",25/26 ROSHN Saudi League MW 25 Al Nassr vs Neom (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1531,6 +1681,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",25/26 ROSHN Saudi League MW 25 Al Ahli vs Al Ittihad (13:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",25/26 ROSHN Saudi League MW 25 Al Nassr vs Neom (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",25/26 ROSHN Saudi League MW 24 Al Kholood vs Al Qadsiah (22:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",25/26 A-League Men Round 20 Sydney FC vs Melbourne Victory (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1544,6 +1700,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",2026 World Baseball Classic: Pool C Korea vs Australia (Live) (17:08 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",2026 World Baseball Classic: Pool A Cuba vs Panama (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Gijon P2 Day 6 Final - Men (Live) (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1600,6 +1759,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LFCTV 2025/26: Wolves vs Liverpool - FA Cup (20:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV Highlights 2025/26 Wolves vs Liverpool (22:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Goals Galore 2024/25 (22:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Archive: Real Madrid vs Mallorca - 2011/12 (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",Bundesliga 2025/26: St. Pauli vs Frankfurt (Live) (21:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
@@ -1621,7 +1789,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",MUTV 2025/26: Newcastle vs Man United (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2025/26 (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2025/26 (21:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",Asia Cup Rising Stars, 2025 H/Ls: BAN A v IND A, SF 1 (02:21 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",BBL 2025-26 H/Ls: Final: PRS v SYS (21:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",FS MMA Nick Thompson vs. Davion Peterson (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -1675,7 +1852,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Joe Calzaghe vs Roy Jones Jr. (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",Wide World of Fights Gennady Golovkin vs. Grzergorz Proksa (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Travis Walker vs. Chris Arreola (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Tshilumba Mikixi vs. August Kayambala (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",Super League Toulouse Olympique v Wigan (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Super League Leigh v Catalans (22:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Justice League: Crisis On Infinite Earths - Part Three (06:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
