@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (14:30 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (14:30 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (14:30 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (14:30 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (14:30 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (14:30 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
@@ -35,307 +35,451 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (2) (23:00 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (2) (23:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (2) (23:00 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (2) (23:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 2 (2) (23:00 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 3 (2) (23:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV HL 2026/27: FUL Vs MUN (20:00 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Aston Villa vs Fenerbahce (01:55 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV HL 2026/27: FUL Vs MUN (20:00 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Aston Villa vs Fenerbahce (01:55 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",MUTV HL 2026/27: FUL Vs MUN (20:00 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Aston Villa vs Fenerbahce (01:55 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV 2026/27: MUN Vs TOT (20:30 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (04:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV 2026/27: MUN Vs TOT (20:30 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (04:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",MUTV 2026/27: MUN Vs TOT (20:30 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (04:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: MUN Vs TOT (22:30 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (05:30 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: MUN Vs TOT (22:30 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (05:30 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",MUTV Match Day: MUN Vs TOT (22:30 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Malaga (05:30 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: SVW Vs VAL (23:30 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (07:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: SVW Vs VAL (23:30 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (07:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: SVW Vs VAL (23:30 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (07:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Sabah FK vs Slavia Prague (23:40 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (08:30 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Sabah FK vs Slavia Prague (23:40 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (08:30 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Sabah FK vs Slavia Prague (23:40 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan (08:30 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: RBL Vs PSV (L) (18:55 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel Match HL 2026 (10:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: RBL Vs PSV (L) (18:55 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel Match HL 2026 (10:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: RBL Vs PSV (L) (18:55 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel Match HL 2026 (10:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: VIL Vs NAP (L) (20:55 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG Vs LEM (10:40 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: VIL Vs NAP (L) (20:55 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG Vs LEM (10:40 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UYL 2026/27: VIL Vs NAP (L) (20:55 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG Vs LEM (10:40 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Lens vs Sporting (23:40 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Super Lig 2026/27: BJK Vs KOC (12:40 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Lens vs Sporting (23:40 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Super Lig 2026/27: BJK Vs KOC (12:40 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Lens vs Sporting (23:40 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Super Lig 2026/27: BJK Vs KOC (12:40 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Atletico Madrid vs Man United (01:55 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 4 (14:30 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Atletico Madrid vs Man United (01:55 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 4 (14:30 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Atletico Madrid vs Man United (01:55 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 - Day 4 (14:30 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Mini Match LaLiga: RMA Vs VIL (04:30 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: ARS Vs LIL (21:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Mini Match LaLiga: RMA Vs VIL (04:30 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: ARS Vs LIL (21:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",Mini Match LaLiga: RMA Vs VIL (04:30 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: ARS Vs LIL (21:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (05:00 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL Classic Matches: BAR Vs SHK (22:50 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (05:00 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL Classic Matches: BAR Vs SHK (22:50 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (05:00 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UCL Classic Matches: BAR Vs SHK (22:50 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BAR Vs GET (05:35 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI Eventing Nations Cup 2026 (23:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BAR Vs GET (05:35 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI Eventing Nations Cup 2026 (23:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BAR Vs GET (05:35 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI Eventing Nations Cup 2026 (23:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (09:25 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: TOT Vs SLB (23:30 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (09:25 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: TOT Vs SLB (23:30 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (09:25 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches: TOT Vs SLB (23:30 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: RSO Vs DEP (10:00 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Feyenoord vs Como 1907 (23:40 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: RSO Vs DEP (10:00 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Feyenoord vs Como 1907 (23:40 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: RSO Vs DEP (10:00 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Feyenoord vs Como 1907 (23:40 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BET Vs OSA (11:50 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Roma vs Real Madrid (01:55 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BET Vs OSA (11:50 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Roma vs Real Madrid (01:55 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: BET Vs OSA (11:50 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Roma vs Real Madrid (01:55 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (18:20 WIB) - BEIN SPORT 1 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI World Championships 2026 (04:00 WIB) - BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (18:20 WIB) - BEIN SPORT 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI World Championships 2026 (04:00 WIB) - BEIN SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
   
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (18:20 WIB) - BEIN SPORT 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",FEI World Championships 2026 (04:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: FEY Vs COM (05:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: FEY Vs COM (05:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: FEY Vs COM (05:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BOD Vs BVB (06:50 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BOD Vs BVB (06:50 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BOD Vs BVB (06:50 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BET Vs POR (08:40 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BET Vs POR (08:40 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: BET Vs POR (08:40 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SLO Vs VFB (12:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SLO Vs VFB (12:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SLO Vs VFB (12:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SHK Vs AEK (13:45 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SHK Vs AEK (13:45 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: SHK Vs AEK (13:45 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: MCI Vs PSG (17:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: MCI Vs PSG (17:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UCL 2026/27: MCI Vs PSG (17:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Bodo/Glimt vs Dortmund (02:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Bodo/Glimt vs Dortmund (02:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Bodo/Glimt vs Dortmund (02:00 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Real Betis vs Porto (02:00 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Real Betis vs Porto (02:00 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League 2026/27: Real Betis vs Porto (02:00 WIB) - BEIN SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
@@ -467,137 +611,77 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (20:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: LEV Vs SEV (11:20 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: LEV Vs SEV (11:20 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: LEV Vs SEV (11:20 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (13:10 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (20:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (13:10 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (13:10 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (20:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: MAL Vs ESP (13:45 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (21:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: MAL Vs ESP (13:45 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: MAL Vs ESP (13:45 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV 2026/27: LIV Vs MCI (17:35 WIB) - BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (21:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (23:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (23:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (02:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (02:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (02:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (03:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (03:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (03:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (05:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (05:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (08:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (08:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (09:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (09:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (09:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (11:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (11:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (14:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (14:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK: Duangsay Vs Paez (14:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (15:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (15:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Mosley Vs Mora (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (17:00 WIB) - FIGHT SPORTS
-http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
-
-
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (17:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",FS MMA: Fiorot Vs Guegjes (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV 2026/27: LIV Vs MCI (17:35 WIB) - BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+  
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV 2026/27: LIV Vs MCI (17:35 WIB) - BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Khan Vs Garcia (21:00 WIB) - FIGHT SPORTS
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
@@ -654,6 +738,39 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Khan Vs Garcia (09:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (11:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (11:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Khan Vs Garcia (15:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Khan Vs Garcia (15:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Knockouts!: Khan Vs Garcia (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (17:00 WIB) - FIGHT SPORTS
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (17:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",FS MMA: McLellan Vs Lesar (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (21:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
@@ -664,39 +781,6 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (21:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (21:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (04:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Wu Song Vs Ximen Qing (18:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FIFA ASEAN CUP 2026 (17:12 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AVC WOMEN'S NATION CUP (19:11 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FIFA ASEAN CUP 2026 (21:38 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UIN SATU VS UM (12:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNIGORO VS UNESA (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UIBU VS UNP (16:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNP VS UNIJA (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -705,10 +789,13 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",UEFA CHAMPIONS LEAGUE (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League (L) (02:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UIN SATU VS UPI (12:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Vidio: Cool Boys Vs Cool Girls (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNIGORO VS UM (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UIBO VS UNESA (16:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League (L) (23:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -718,156 +805,6 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Vidio: Cool Boys Vs Cool Girls (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: BUR Vs BJG (L) (19:10 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: BUR Vs BJG (L) (19:10 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: BUR Vs BJG (L) (19:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: SEB Vs HUS (L) (22:55 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: SEB Vs HUS (L) (22:55 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: SEB Vs HUS (L) (22:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: ITH Vs SAH (L) (01:10 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: ITH Vs SAH (L) (01:10 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: ITH Vs SAH (L) (01:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: SHA Vs EZR (04:30 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: SHA Vs EZR (04:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: SHA Vs EZR (04:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: IDN Vs CAM (06:30 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: IDN Vs CAM (06:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: IDN Vs CAM (06:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UNL: GRE Vs GER (08:30 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",UNL: GRE Vs GER (08:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",UNL: GRE Vs GER (08:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite 2026/27: POH Vs JDT (11:00 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite 2026/27: POH Vs JDT (11:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite 2026/27: POH Vs JDT (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial U23: IDN Vs SYR (13:00 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial U23: IDN Vs SYR (13:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial U23: IDN Vs SYR (13:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: MVC Vs SEO (L) (14:40 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: MVC Vs SEO (L) (14:40 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: MVC Vs SEO (L) (14:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: BUR Vs BOR (16:45 WIB) - SOCCER CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: BUR Vs BOR (16:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Shopee Cup '26/27: BUR Vs BOR (16:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs The Cong - Viettel FC (VIE) (18:45 WIB) - SOCCER CHANNEL
@@ -960,17 +897,94 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 group-title="LIVE EVENT",ACL Elite 2026/27: VIS Vs JHM (08:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: EBE Vs SHO (L) (20:45 WIB) - SPORTSTARS 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two 2026/27: PSB Vs VTL (11:00 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two 2026/27: PSB Vs VTL (11:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two 2026/27: PSB Vs VTL (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: SIN Vs IDN (13:00 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: SIN Vs IDN (13:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",Timnas Spesial: SIN Vs IDN (13:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",UNL: NED Vs GER (15:00 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",UNL: NED Vs GER (15:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",UNL: NED Vs GER (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: WOF Vs LCS (L) (16:55 WIB) - SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: WOF Vs LCS (L) (16:55 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: WOF Vs LCS (L) (16:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: EBE Vs SHO (L) (20:45 WIB) - SPORTSTARS 2 BC
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS 2 BC
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: EBE Vs SHO (L) (20:45 WIB) - SPORTSTARS
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS 2 BC
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -1062,102 +1076,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
   
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: REY Vs POR (L) (17:00 WIB) - SPORTSTARS 2 HD
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: GAN Vs PPC (L) (17:00 WIB) - SPORTSTARS 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: REY Vs POR (L) (17:00 WIB) - SPORTSTARS 2 BC
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: GAN Vs PPC (L) (17:00 WIB) - SPORTSTARS 2 BC
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: REY Vs POR (L) (17:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS 2 BC
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (19:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS 2 BC
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",ACL Two: TAW Vs RAY (L) (23:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026-2027 (02:00 WIB) - SPORTSTARS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026-2027 (02:00 WIB) - SPORTSTARS 2 BC
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026-2027 (02:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (06:00 WIB) - SPORTSTARS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (06:00 WIB) - SPORTSTARS 2 BC
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (06:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",The Championship Wimbledon (09:00 WIB) - SPORTSTARS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",The Championship Wimbledon (09:00 WIB) - SPORTSTARS 2 BC
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT",The Championship Wimbledon (09:00 WIB) - SPORTSTARS
+#EXTINF:-1 group-title="LIVE EVENT",ACL Two: GAN Vs PPC (L) (17:00 WIB) - SPORTSTARS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -1326,7 +1255,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (14:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - SPORTSTARS 3 HD
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - SPORTSTARS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1334,122 +1263,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - SPORTSTARS
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - SPORTSTARS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
   
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - SPORTSTARS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - SPORTSTARS 4 HD
@@ -1659,7 +1480,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - SPORTSTARS 4 HD
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1668,10 +1489,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (18:00 WIB) - Sportstars 4
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two (18:00 WIB) - Sportstars 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1682,204 +1503,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (20:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (22:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (02:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Nations League (04:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (06:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - SPORTSTARS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite (08:00 WIB) - Sportstars 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: SDD Vs HIL (L) (23:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",ACL Elite: SDD Vs HIL (L) (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",The Championship Wimbledon (04:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",The Championship Wimbledon (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (07:30 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",Pro Futsal League (07:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026: Women (09:30 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026: Women (09:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026: Women (L) (14:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026: Women (L) (14:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: Korea Ex Hipass vs Hyundai Hillstate (17:00 WIB) - SPORTSTARS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-  
-#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: Korea Ex Hipass vs Hyundai Hillstate (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE EVENT",ACL Two: NAS Vs WAH (L) (20:45 WIB) - SPORTSTARS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1920,30 +1543,24 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title="LIVE EVENT",NH Cup 2026: Women (09:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - SPOTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: Soop vs HK Pink Spiders (13:30 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: Soop vs HK Pink Spiders (13:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: HIL Vs ITH (22:00 WIB) - SPOTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: IBK Altos vs Jung Kwan Jang (17:00 WIB) - SPORTSTARS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: HIL Vs ITH (22:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: HIL Vs ITH (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+  
+#EXTINF:-1 group-title="LIVE EVENT",Women's NH Cup 2026/27: IBK Altos vs Jung Kwan Jang (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - SPOTV
@@ -1972,37 +1589,30 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: FAT Vs AHL (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Maxi Yacht Rolex Cup 2026 (18:15 WIB) - SPOTV 2 V+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Maxi Yacht Rolex Cup 2026 (18:15 WIB) - SPOTV 2 PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT",Maxi Yacht Rolex Cup 2026 (18:15 WIB) - SPOTV
+#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: NSR Vs DIR (16:00 WIB) - SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: East Bengal FC (IND) vs Al Shorta (IRQ) (20:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: NSR Vs DIR (16:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: East Bengal FC (IND) vs Al Shorta (IRQ) (20:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League: NSR Vs DIR (16:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Kashiwa Reysol (JPN) vs Port FC (THA) (17:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Kashiwa Reysol (JPN) vs Port FC (THA) (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Aramco Korea Championship (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Al Taawoun FC (KSA) vs Al Rayyan SC (QAT) (23:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
@@ -2011,22 +1621,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Al Taawoun FC (KSA) vs Al Rayyan SC (QAT) (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Buriram United (THA) vs Beijing FC (CHN) (19:10 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Gangwon FC (KOR) vs Phnom Penh Crown FC (CAM) (17:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Buriram United (THA) vs Beijing FC (CHN) (19:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) (01:10 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) (01:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Melbourne Victory FC (AUS) vs FC Seoul (KOR) (14:40 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Melbourne Victory FC (AUS) vs FC Seoul (KOR) (14:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Gangwon FC (KOR) vs Phnom Penh Crown FC (CAM) (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Al Jazira Club (UAE) vs FC Arkadag (TKM) (22:55 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
@@ -2041,16 +1639,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Kuwait SC (KUW) vs Al Khaldiya SC (BHR) (01:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Cong An Ha Noi FC (VIE) vs Kashima Antlers (JPN) (19:15 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Tai Po FC (HKG) vs Lion City Sailors FC (SGP) (16:55 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Cong An Ha Noi FC (VIE) vs Kashima Antlers (JPN) (19:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Vissel Kobe (JPN) vs Jeonbuk Hyundai Motors (KOR) (17:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2026/27: Vissel Kobe (JPN) vs Jeonbuk Hyundai Motors (KOR) (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: Tai Po FC (HKG) vs Lion City Sailors FC (SGP) (16:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Two 2026/27: PFC Nasaf (UZB) vs Al Wahda FC (UAE) (20:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
@@ -2119,102 +1711,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (03:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (05:15 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (05:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (05:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (05:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (08:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (09:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (09:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (13:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (13:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (17:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (17:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (19:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (19:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (20:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (21:45 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (21:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (23:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (00:15 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (00:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (01:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (01:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (02:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (02:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (03:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
-#https://bit.ly/428RaFW
-
-#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (03:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (06:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
 #https://bit.ly/428RaFW
 
@@ -2233,28 +1729,34 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (10:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Davis Cup by Generali Qualifiers 2026 2nd Rd M1: Austria vs Belgium (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (11:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",BWF Thomas %26 Uber Cup Finals 2026 (03:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (14:00 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (14:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",BWF World Championships 2026 (04:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (15:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (17:30 WIB) - -ᴷᴼᴾᴵ ˢᵁˢᵁ-
+#https://bit.ly/428RaFW
+
+#EXTINF:-1 group-title="LIVE EVENT",AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN) (17:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Davis Cup by Generali Qualifiers 2026 2nd Rd M2: Austria vs Belgium (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",UFC Fight Night 2026 FN 25: Prelims: Allen vs Duncan (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Singapore Premier League 2026/27 Lion City Sailors FC vs Young Lions (07:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",East Asia Super League 2026/27 Abra vs HK Eastern (09:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Legends Football Match 2026 Game4Hope: Merseyside XI vs R.O.W XI (11:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Billie Jean King Cup by Gainbridge Finals 2026 (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",East Asia Super League 2026/27 Alvark Tokyo vs Broncos (05:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2263,25 +1765,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",East Asia Super League 2026/27 Nagasaki Velca vs KCC Egis (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",ICC Women's T20 World Cup 2026 HLs (09:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (10:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",TATA Indian Premier League 2026 (18:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
 #EXTINF:-1 group-title="LIVE EVENT",ICC Women's T20 World Cup 2026 HLs (10:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League 26/27 MD 8 Al Hilal vs Al Ittihad (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (10:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",2026 Ladies European Tour: Aramco Korea Championship (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",ICC Men's T20 World Cup 2026 (14:15 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Reyes Cup 2026 (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League 26/27 MD 8 Al Fateh vs Al Ahli (22:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2290,49 +1783,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",2026 World Surf League Replay (00:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",2026 Global Champions League, Vienna (06:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",2026 World Surf League Replay (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 2 Match 5 (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Roshn Saudi League 26/27 MD 8 Al Nassr vs Diriyah (16:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 2 Match 6 (00:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Galatasaray vs Barcelona - MD2 UEFA Champions League 2026/27 (01:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG vs Le Mans (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 2 Match 6 (07:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 2 Match 7 (08:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel Match Highlights 2026 (10:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Super Lig 2026/27: Rizespor vs Fenerbahce (10:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG vs Le Mans (12:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 3 Match 1 (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 3 Match 2 (16:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 3 Match 3 (17:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 3 Match 4 (19:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Germany P2 Day 6 Final - Men (20:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",2026 Ladies European Tour: Aramco Korea Championship (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 3 Match 5 (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2359,55 +1816,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",Premier Padel Match Highlights 2026 (10:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Lens vs Sporting - MD2 UEFA Champions League 2026/27 (23:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",PSG TV 2026/27: PSG vs Le Mans (10:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Atletico Madrid vs Man United - MD2 UEFA Champions League 2026/27 (01:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Super Lig 2026/27: Besiktas vs Kocaelispor (12:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Mini Match - LaLiga 2026/27: Real Madrid vs Villarreal (04:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 4 Match 1 (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 4 Match 2 (16:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Barcelona vs Getafe (05:35 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Premier Padel 2026: Milan P1 Day 4 Match 3 (17:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (09:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LASK vs Liverpool - MD2 UEFA Champions League 2026/27 (151026) (23:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Real Sociedad vs Deportivo (10:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Real Betis vs Osasuna (11:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FIA World Endurance Championship Highlights 2026 (13:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Formula 4 Italian Championship 2026: Euro 4 Monza Race 2 (14:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Formula 4 Italian Championship 2026: Euro 4 Monza Race 3 (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FIA European Truck Racing Championship Highlights 2026 (16:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (18:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Youth League 2026/27: Roma vs Real Madrid - MD2 (18:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Youth League 2026/27: Man City vs PSG - MD2 (20:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",LASK vs Liverpool - MD2 UEFA Champions League 2026/27 (23:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Man City vs PSG - MD2 UEFA Champions League 2026/27 (01:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Man City vs PSG - MD2 UEFA Champions League 2026/27 (151026) (01:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Mini Match - LaLiga 2026/27: Real Betis vs Osasuna (04:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2419,52 +1846,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Racing de Santander vs Valencia (09:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",UEL Classic Matches Bremen vs Valencia (2009/10) (23:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Levante vs Sevilla (11:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Sabah FK vs Slavia Prague - MD2 UEFA Champions League 2026/27 (23:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga Highlights 2026/27 (13:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Arsenal vs Lille - MD2 UEFA Champions League 2026/27 (01:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LaLiga 2026/27: Malaga vs Espanyol (13:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FEI Eventing Nations Cup 2026 (04:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Sabah FK vs Slavia Prague - MD2 UEFA Champions League 2026/27 (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Leipzig vs PSV - MD2 UEFA Champions League 2026/27 (06:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Viking vs Bayern - MD2 UEFA Champions League 2026/27 (08:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2026/27 (10:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Villarreal vs Napoli - MD2 UEFA Champions League 2026/27 (12:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Inter vs Club Brugge - MD2 UEFA Champions League 2026/27 (13:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2026/27 (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Atletico Madrid vs Man United - MD2 UEFA Champions League 2026/27 (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UCL Classic Matches Barcelona vs Lyon (2001/02) (18:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2026/27 (19:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Arsenal vs Lille - MD2 UEFA Champions League 2026/27 (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",UCL Classic Matches Barcelona vs Shakhtar (2010/11) (22:50 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",LFCTV 2026/27: Liverpool vs Man City (17:35 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",FEI Eventing Nations Cup 2026 (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2494,76 +1885,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2026/27 (10:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Sri Lanka tour of Pakistan, 2026 LIVE: PAK vs SL, 3rd T20I (21:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Slovan Bratislava vs Stuttgart - MD2 UEFA Champions League 2026/27 (12:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",MLC 2026 Highlights: M6: SO vs LAKR (01:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Shakhtar vs AEK Athens - MD2 UEFA Champions League 2026/27 (13:45 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",CPL 2026 Highlights: M3: ABF vs SLK (01:59 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",UEFA Champions League Highlights 2026/27 (15:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",New Zealand tour of West Indies, 2026 Highlights: WI vs NZ, 4th ODI (02:26 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Bundesliga Weekly 2026/27 (16:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",TATA IPL 2026 Highlights: M9: GT vs RR (02:53 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",MLC 2026 Highlights: M24: WF vs LAKR (03:23 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",CPL 2026 Highlights: M11: SLK vs GAW (03:52 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Afghanistan tour of India, 2026 Highlights: IND vs AFG, 3rd ODI (04:13 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",MLC 2026 Highlights: M16: LAKR vs WF (04:42 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",TATA IPL 2026 Highlights: M20: MI vs RCB (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",MLC 2026 Highlights: M10 : TSK vs MINY (05:29 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",TATA IPL 2026 Highlights: M28: KKR vs RR (06:23 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 1st T20I (06:48 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Bangladesh tour of Afghanistan, 2026 Highlights: AFG vs BAN, Only Test (07:12 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 3rd T20I (08:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I (09:04 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 1st ODI (09:28 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 2nd T20I (10:02 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Bangladesh Women tour of Australia, 2026 Highlights: AUSW vs BANW, 2nd ODI (10:26 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Bangladesh Women tour of Australia, 2026 LIVE: AUSW vs BANW, 3rd ODI (10:48 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 2nd T20I (18:31 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I (18:55 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Afghanistan tour of India, 2026 Highlights: IND vs AFG, 2nd ODI (19:19 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 3rd T20I (19:58 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Man City vs PSG - MD2 UEFA Champions League 2026/27 (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 LIVE: IND vs WI, 4th T20I (20:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2623,52 +1957,34 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",Bangladesh tour of Afghanistan, 2026 Highlights: AFG vs BAN, Only Test (10:25 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Manon Fiorot vs. Mellony Guegjes (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",TATA IPL 2026 Highlights: M43: RR vs DC (11:53 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Sergio Martinez vs. Paul Williams I (00:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",CPL 2026 Highlights: Final: ABF vs JAK (12:24 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK Tyler Duangsay vs. Chris Paez (02:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",West Indies tour of India, 2026 Highlights: IND vs WI, 4th T20I (12:54 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Shane Mosley vs. Sergio Mora (03:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Afghanistan tour of India, 2026 Highlights: IND vs AFG, 2nd ODI (13:18 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Manon Fiorot vs. Mellony Guegjes (05:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",New Zealand tour of West Indies, 2026 Highlights: WI vs NZ, 5th ODI (13:58 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Sergio Martinez vs. Paul Williams I (06:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",CPL 2026 Highlights: M20: TKR vs JAK (14:29 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK Tyler Duangsay vs. Chris Paez (08:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",India tour of Sri Lanka, 2026 Highlights: SL vs IND, 2nd Test (15:17 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Shane Mosley vs. Sergio Mora (09:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",MLC 2026 Highlights: Final: LAKR vs WF (17:06 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Manon Fiorot vs. Mellony Guegjes (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",CPL 2026 Highlights: E: BT vs JAK (17:34 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Sergio Martinez vs. Paul Williams I (12:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FS WCK Tyler Duangsay vs. Chris Paez (14:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Shane Mosley vs. Sergio Mora (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Manon Fiorot vs. Mellony Guegjes (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights In 60 Jermain Taylor vs. Jeff Lacy (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Greatest Classics Vinny Pazienza vs. Gilbert Dele (19:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Amir Khan vs. Danny Garcia (21:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",TATA IPL 2026 Highlights: Q1: RCB vs GT (17:54 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Garreth McLellan vs. Brendan Lesar (23:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2695,31 +2011,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Amir Khan vs. Danny Garcia (09:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership Saracens v Bristol (21:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Garreth McLellan vs. Brendan Lesar (11:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership Exeter v Newcastle (23:10 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights In 60 Jermain Taylor vs. Jeff Lacy (12:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",United Rugby Championship Ulster v Munster (01:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",Greatest Classics Vinny Pazienza vs. Gilbert Dele (13:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",United Rugby Championship Leinster v Cardiff (03:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",KNOCKOUTS! Amir Khan vs. Danny Garcia (15:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership Leicester v Gloucester (08:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",FIGHT SPORTS MMA Garreth McLellan vs. Brendan Lesar (17:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
-#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership Northampton v Bath (10:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Bledisloe Cup New Zealand v Australia (14:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",United Rugby Championship Scarlets v Benetton (17:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
-#https://bit.ly/DonzTelevisionNewAttention
-
-#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership (19:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#EXTINF:-1 group-title="LIVE EVENT",MEGA Fights Andre Ward vs. Chad Dawson (18:00 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership (00:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
@@ -2738,5 +2045,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #https://bit.ly/DonzTelevisionNewAttention
 
 #EXTINF:-1 group-title="LIVE EVENT",Bledisloe Cup New Zealand v Australia (09:40 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership Exeter v Newcastle (11:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Premier Sports Extra (13:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Gallagher Premiership (15:20 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
+#https://bit.ly/DonzTelevisionNewAttention
+
+#EXTINF:-1 group-title="LIVE EVENT",Dc League Of Super-Pets (14:30 WIB) - -ᴬᵀᵀᴱᴺᵀᴵᴼᴺ-
 #https://bit.ly/DonzTelevisionNewAttention
 
